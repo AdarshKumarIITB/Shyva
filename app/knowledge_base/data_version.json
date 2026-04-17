@@ -1,0 +1,44 @@
+{
+  "hts_codes": {
+    "source": "USITC HTS REST API (hts.usitc.gov/reststop)",
+    "version": "HTS 2026 Current Release",
+    "last_verified": "2026-04-14",
+    "verification_method": "Live API queries for headings 8534, 8473, 8542, 2903, 7408, 7413, 8544, 7604, 7608, 7610, 7616"
+  },
+  "taric_codes": {
+    "source": "EU TARIC consultation tool (ec.europa.eu) + UK Trade Tariff API (structural validation)",
+    "version": "TARIC April 2026",
+    "last_verified": "2026-04-14",
+    "verification_method": "UK Trade Tariff API for code structure; EU TARIC web tool for MFN rates",
+    "note": "EU MFN rates manually verified. UK rates may differ post-Brexit."
+  },
+  "trade_remedies": {
+    "section_301": {
+      "source": "USITC HTS Chapter 99 cross-references + USTR announcements",
+      "last_verified": "2026-04-14",
+      "warning": "Section 301 list assignments based on product mapping. Verify specific subheadings against Federal Register notices."
+    },
+    "section_232": {
+      "source": "US Proclamation 9704 and subsequent modifications",
+      "last_verified": "2026-04-14"
+    },
+    "reciprocal_tariffs": {
+      "source": "USTR announcements, CBP guidance",
+      "last_verified": "2026-04-14",
+      "warning": "EXTREMELY VOLATILE. Rates change frequently. Always flag for human review."
+    },
+    "eu_anti_dumping": {
+      "source": "EU Official Journal, Implementing Regulation 2021/546",
+      "last_verified": "2026-04-14",
+      "warning": "Under expiry review. Check current status."
+    }
+  },
+  "preference_programs": {
+    "source": "USTR GSP page, EU GSP regulation 978/2012, EVFTA text",
+    "last_verified": "2026-04-14"
+  },
+  "chapter_notes": {
+    "source": "WCO HS Explanatory Notes, USITC HTS, EU CN Explanatory Notes",
+    "last_verified": "2026-04-14"
+  }
+}

@@ -1,0 +1,399 @@
+[
+  {
+    "htsno": "7604",
+    "indent": "0",
+    "description": "Aluminum bars, rods and profiles:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.10",
+    "indent": "1",
+    "description": "Of aluminum, not alloyed:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.10.10.00",
+    "indent": "2",
+    "description": "Profiles",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.10.30.00",
+    "indent": "3",
+    "description": "Having a round cross section",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.10.50.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "13.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.21.00",
+    "indent": "2",
+    "description": "Hollow profiles",
+    "superior": null,
+    "units": [],
+    "general": "1.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "15.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.21.00.10",
+    "indent": "3",
+    "description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.21.00.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.10",
+    "indent": "3",
+    "description": "Other profiles",
+    "superior": null,
+    "units": [],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.10.10",
+    "indent": "4",
+    "description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.10.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.30",
+    "indent": "4",
+    "description": "Having a round cross section",
+    "superior": null,
+    "units": [],
+    "general": "2.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.30.30",
+    "indent": "5",
+    "description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.30.60",
+    "indent": "5",
+    "description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.30.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "13.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.50.20",
+    "indent": "5",
+    "description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.50.50",
+    "indent": "5",
+    "description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "7604.29.50.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

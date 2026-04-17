@@ -1,0 +1,88 @@
+{
+  "_doc": "Duty stacking rules. Loaded at startup by the rules engine. Edit this file + restart to update rules.",
+  "rules": [
+    {
+      "id": "us_mfn",
+      "description": "US MFN base duty from HTSUS general column",
+      "condition": {"destination": "US"},
+      "action": "resolve_from_api",
+      "method": "usitc_mfn",
+      "layer_type": "MFN",
+      "legal_basis": "HTSUS General duty column (NTR/MFN rate)"
+    },
+    {
+      "id": "us_section_301",
+      "description": "Section 301 additional duties on Chinese imports (resolved from USITC footnotes)",
+      "condition": {"origin": "CN", "destination": "US"},
+      "action": "resolve_from_api",
+      "method": "usitc_section_301",
+      "layer_type": "section_301",
+      "stacks_on": ["MFN"],
+      "legal_basis": "Trade Act of 1974, Section 301"
+    },
+    {
+      "id": "us_section_232_aluminum",
+      "description": "Section 232 tariff on aluminum (all origins)",
+      "condition": {"destination": "US", "chapter": [76]},
+      "action": "fixed_rate",
+      "rate_pct": 25.0,
+      "layer_type": "section_232",
+      "stacks_on": ["MFN", "section_301"],
+      "legal_basis": "Section 232, Trade Expansion Act of 1962; Proclamation 9704",
+      "effective_date": "2018-03-23"
+    },
+    {
+      "id": "eu_mfn",
+      "description": "EU MFN base duty from TARIC (via XI API)",
+      "condition": {"destination": "EU"},
+      "action": "resolve_from_api",
+      "method": "xi_mfn",
+      "layer_type": "MFN",
+      "legal_basis": "EU Common Customs Tariff (TARIC) — Third Country Duty"
+    },
+    {
+      "id": "eu_preferential",
+      "description": "EU bilateral preferential rate (EVFTA, etc.)",
+      "condition": {"destination": "EU"},
+      "action": "resolve_from_api",
+      "method": "xi_preferential",
+      "layer_type": "preferential",
+      "replaces": ["MFN"],
+      "legal_basis": "Bilateral trade agreement"
+    },
+    {
+      "id": "india_gsp_graduation",
+      "description": "India graduated from EU GSP on industrial sections (VI, XV, XVI)",
+      "condition": {
+        "origin": "IN",
+        "destination": "EU",
+        "chapter": [28,29,30,31,32,33,34,35,36,37,38, 72,73,74,75,76,77,78,79,80,81,82,83, 84,85]
+      },
+      "action": "block_preference",
+      "blocks": ["gsp"],
+      "legal_basis": "EU Regulation 2023/2663 on GSP graduation",
+      "effective_date": "2024-01-01",
+      "expiry_date": "2026-12-31"
+    },
+    {
+      "id": "eu_gsp_general",
+      "description": "EU GSP General Arrangement rate",
+      "condition": {"destination": "EU"},
+      "action": "resolve_from_api",
+      "method": "xi_gsp",
+      "layer_type": "gsp",
+      "replaces": ["MFN"],
+      "legal_basis": "EU GSP Regulation 978/2012"
+    },
+    {
+      "id": "eu_anti_dumping",
+      "description": "EU anti-dumping duties (resolved from XI API measures)",
+      "condition": {"destination": "EU"},
+      "action": "resolve_from_api",
+      "method": "xi_anti_dumping",
+      "layer_type": "anti_dumping",
+      "stacks_on": ["MFN"],
+      "legal_basis": "EU trade defence regulation"
+    }
+  ]
+}

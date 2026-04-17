@@ -1,0 +1,65 @@
+[
+  {
+    "id": "47044",
+    "code": "7610100000",
+    "description": "Doors, windows and their frames and thresholds for doors",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "47045",
+    "code": "7610900000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "47046",
+    "code": "7610901000",
+    "description": "Bridges and bridge-sections, towers and lattice masts",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "47047",
+    "code": "7610909000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105270",
+    "code": "7610909010",
+    "description": "Bars, rods, profiles (whether or not hollow), tubes, pipes, unassembled, not welded, made from aluminium, whether or not alloyed, containing not more than 99.3% of aluminium<br>",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106186",
+    "code": "7610909091",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "106187",
+    "code": "7610909091",
+    "description": "Products attached (e.g. by welding or fasteners) to form subassemblies",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106188",
+    "code": "7610909092",
+    "description": "Products in a packaged kit with the necessary parts to assemble a finished product without further finishing or fabrication of the parts (\u2018finished goods kit\u2019)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106190",
+    "code": "7610909095",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  }
+]

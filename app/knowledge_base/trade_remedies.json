@@ -1,0 +1,98 @@
+{
+  "_note": "CORRECTED based on live USITC API footnote cross-references (April 14, 2026). Section 301 mappings derived from actual footnotes on the 'general' column of each HTS code, NOT from list-level assumptions. The system resolves these dynamically via USITC API footnotes -> 9903.xx search.",
+
+  "section_301": {
+    "applies_to_origin": "CN",
+    "applies_to_destination": "US",
+    "description": "Section 301 additional duties on imports from China",
+    "legal_basis": "Trade Act of 1974, Section 301; USTR actions 2018-2025",
+    "resolution_method": "DETERMINISTIC via USITC API: (1) search HTS code, (2) parse footnotes on 'general' column for 9903.xx references, (3) search 9903.xx code, (4) parse '+X%' from its 'general' field",
+    "provisions": {
+      "9903.88.01": {"rate": "+25%", "effective": "2018-07-06", "description": "List 1 ($34B)"},
+      "9903.88.02": {"rate": "+25%", "effective": "2018-08-23", "description": "List 2 ($16B)"},
+      "9903.88.03": {"rate": "+25%", "effective": "2019-05-10", "description": "List 3 ($200B)"},
+      "9903.88.15": {"rate": "+7.5%", "effective": "2020-02-14", "description": "List 4A (reduced)"},
+      "9903.91.01": {"rate": "+25%", "effective": "2024-09-27", "description": "NEW: Strategic sectors (aluminum, steel, etc.)"},
+      "9903.91.02": {"rate": "+50%", "effective": "2024-09-27", "description": "NEW: Semiconductors, solar cells"},
+      "9903.91.03": {"rate": "+100%", "effective": "2024-09-27", "description": "NEW: EVs, batteries, critical minerals"},
+      "9903.91.05": {"rate": "+50%", "effective": "2025-01-01", "description": "NEW: Semiconductors/ICs (raised from 25% to 50%)"},
+      "9903.91.06": {"rate": "+25%", "effective": "2026-01-01", "description": "NEW: Additional sector coverage 2026"},
+      "9903.88.69": {"rate": "exclusion", "effective": "2024-06-15", "expires": "2026-11-09", "description": "Exclusion provision"}
+    },
+    "product_mappings_from_api": {
+      "8534.00.00": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "PCBs"},
+      "8542.31.00": {"footnote_ref": "9903.91.05", "rate": "+50%", "product": "IC processors/controllers"},
+      "8542.32.00": {"footnote_ref": "9903.91.05", "rate": "+50%", "product": "IC memories"},
+      "8542.33.00": {"footnote_ref": "9903.91.05", "rate": "+50%", "product": "IC amplifiers"},
+      "8542.39.00": {"footnote_ref": "9903.91.05", "rate": "+50%", "product": "Other ICs"},
+      "8542.90.00": {"footnote_ref": "9903.91.05", "rate": "+50%", "product": "IC parts"},
+      "7604.10.10": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al profiles not alloyed"},
+      "7604.10.30": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al bars round not alloyed"},
+      "7604.10.50": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al bars other not alloyed"},
+      "7604.21.00": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al hollow profiles alloyed"},
+      "7604.29.10": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al other profiles alloyed"},
+      "7604.29.30": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al bars round alloyed"},
+      "7604.29.50": {"footnote_ref": "9903.91.01", "rate": "+25%", "product": "Al bars other alloyed"},
+      "7616.99.51": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Al other articles"},
+      "8544.11.00": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": "Cu winding wire"},
+      "8544.19.00": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": "Other winding wire"},
+      "8544.20.00": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Coaxial cable"},
+      "8544.30.00": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": "Vehicle wiring sets"},
+      "8544.42.10": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Telecom w/ connectors"},
+      "8544.42.20": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Other telecom w/ conn"},
+      "8544.42.90": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Other w/ connectors"},
+      "8544.49.10": {"footnote_ref": "9903.88.02", "rate": "+25%", "product": "Telecom no connectors"},
+      "8544.49.20": {"footnote_ref": "9903.88.02", "rate": "+25%", "product": "Other <=80V no conn"},
+      "8544.49.30": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": "Cu >80V <=1kV no conn"},
+      "8544.49.90": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": "Other no conn"},
+      "8544.60.20": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": ">1kV w/ connectors"},
+      "8544.60.40": {"footnote_ref": "9903.88.01", "rate": "+25%", "product": ">1kV Cu no conn"},
+      "8544.60.60": {"footnote_ref": "9903.88.02", "rate": "+25%", "product": ">1kV other no conn"},
+      "7408.19.00": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Cu wire uninsulated"},
+      "2903.51.10": {"footnote_ref": "none_on_general", "rate": "N/A", "product": "HFO-1234yf — no China 301 on general column"},
+      "2903.11.00": {"footnote_ref": "9903.88.03", "rate": "+25%", "product": "Chloromethane etc."}
+    },
+    "critical_note": "These mappings are a snapshot. The system resolves Section 301 DYNAMICALLY by parsing USITC API footnotes at query time. This file serves as a reference/fallback only."
+  },
+
+  "section_232": {
+    "applies_to_origin": "ALL",
+    "applies_to_destination": "US",
+    "description": "Section 232 tariffs on aluminum imports",
+    "legal_basis": "Trade Expansion Act of 1962, Section 232; Proclamation 9704 (2018)",
+    "aluminum": {
+      "rate": "25%",
+      "effective_date": "2018-03-23",
+      "applies_to_chapters": [76],
+      "heading_coverage": ["7601", "7603", "7604", "7605", "7606", "7607", "7608", "7609", "7610", "7611", "7612", "7613", "7614", "7616"],
+      "stacking": "Section 232 stacks with Section 301. A Chinese aluminum extrusion pays MFN + Section 301 + Section 232.",
+      "no_api": "Section 232 is encoded in presidential proclamations, not in USITC API footnotes. Must be hardcoded."
+    }
+  },
+
+  "eu_trade_defence": {
+    "resolution_method": "DETERMINISTIC via XI API: fetch /xi/api/v2/commodities/{code}, filter measure_type_id=552 (anti-dumping) or 553 (countervailing) by geographical_area_id=CN",
+    "china_aluminum_extrusions": {
+      "applies_to_origin": "CN",
+      "applies_to_destination": "EU",
+      "measure_type": "anti_dumping",
+      "catchall_rate": "32.10%",
+      "applicable_codes": ["7604", "7608", "7610"],
+      "NOT_applicable": ["7616 — die castings confirmed outside AD scope via XI API (no type 552 measures)"],
+      "regulation": "EU Implementing Regulation 2021/546",
+      "effective_date": "2021-03-31",
+      "status": "Under review (type 565 review measure visible in XI API)"
+    }
+  },
+
+  "metadata": {
+    "last_verified": "2026-04-14",
+    "verification_method": "Live USITC API footnote parsing + XI API measure queries",
+    "critical_corrections": [
+      "ICs (8542) changed from +25% to +50% under new 9903.91.05 (effective Jan 2025)",
+      "Al profiles (7604) now under 9903.91.01 (+25%) instead of original 9903.88.xx",
+      "HFO-1234yf (2903.51) has NO Section 301 footnote on the general column — previously assumed +25%",
+      "Al castings (7616) confirmed outside EU AD scope — no type 552 measures in XI API"
+    ]
+  }
+}

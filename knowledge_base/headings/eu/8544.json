@@ -1,0 +1,380 @@
+[
+  {
+    "id": "52841",
+    "code": "8544110000",
+    "description": "Winding wire",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "52842",
+    "code": "8544110000",
+    "description": "Of copper",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "52843",
+    "code": "8544111000",
+    "description": "Lacquered or enamelled",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "52844",
+    "code": "8544119000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "52845",
+    "code": "8544190000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "52850",
+    "code": "8544200000",
+    "description": "Coaxial cable and other coaxial electric conductors",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "103656",
+    "code": "8544200030",
+    "description": "Antenna connecting cable for the transmission of radio (AM/FM) signal and whether or not GPS signal, containing:<br>-\u00a0a coaxial cable,<br>-\u00a0two or more connectors, and<br>-\u00a03\u00a0or more plastic clips for attachment to the dashboard<br>of a kind used in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "96973",
+    "code": "8544200090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "52855",
+    "code": "8544300000",
+    "description": "Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "82569",
+    "code": "8544300010",
+    "description": "For use in civil aircraft",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "109915",
+    "code": "8544300020",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109917",
+    "code": "8544300020",
+    "description": "Insulated electrical multicore cable for the EPS-system (Electrical Power Steering) of a motor vehicle:<br>-with a length of 170\u00a0mm or more but not more than 301\u00a0mm,<br>-with an external diameter of 4,5\u00a0mm or more but not more than 7\u00a0mm,<br>-with an operating temperature of -40\u00b0C or more but not more than 125\u00b0C,<br>-with Cross-Linked Polyethylene (XLPE) or Thermoplastic Polyester Elastomer (TPE-E) wire insulation material,<br>-with an operating voltage of 5\u00a0V,<br>-fitted with connectors at both ends,<br>-whether or not gold-plated or tin-plated<br>",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "98652",
+    "code": "8544300040",
+    "description": "Wire harness or cable for steering system: - for an operatingVoltage of 12V, - with connectors on both sides, - whether or not with anchor clamps of plastic for mounting on a motorVehicle steering box",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "99612",
+    "code": "8544300060",
+    "description": "Four-core connecting cable containing two female connectors for the transmission of digital signals from navigation and/or audio systems to a USB connector and/or LCD monitor, for use in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108428",
+    "code": "8544300065",
+    "description": "Six core cable connecting the oil pressure sensor and the differential controller of vehicles:<br>-with PVC-coating,<br>-with three multiple connectors, and<br>-with or without plastic clip,<br>for use in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109267",
+    "code": "8544300075",
+    "description": "Wiring harness to connect the integrated battery system with the car's control systems, containing:<br>-an input waterproof connector,<br>-four or more output connectors,<br>-two or more plastic clips for attachment<br>for use in the production of rechargeable batteries for hybrid and electric vehicles",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "103657",
+    "code": "8544300085",
+    "description": "Extension two-core cable with two connectors, containing at least:<br>-\u00a0a rubber grommet,<br>-\u00a0a metal attachment bracket<br>of a kind used to connect vehicle speed sensors in the manufacture of vehicles of Chapter 87",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "98304",
+    "code": "8544300089",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87974",
+    "code": "8544420000",
+    "description": "Other electric conductors, for a voltage not exceeding 1\u00a0000\u00a0V",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "87975",
+    "code": "8544420000",
+    "description": "Fitted with connectors",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "87976",
+    "code": "8544421000",
+    "description": "Of a kind used for telecommunications",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87977",
+    "code": "8544429000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "91190",
+    "code": "8544429010",
+    "description": "Data transmission cable capable of a bit rate transmission of 600\u00a0Mbit/s or more, with:<br>-\u00a0a voltage of 1,25\u00a0V\u00a0(\u00b1\u00a00,25\u00a0V)<br>-\u00a0connectors fitted at one or both ends, at least one of which contains pins with a pitch of\u00a01\u00a0mm,<br>-\u00a0outer screening shielding,<br>used solely for communication between LCD, PDP or OLED panel and video processing electronic circuits",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "96975",
+    "code": "8544429020",
+    "description": "PET or PVC insulated flexible cable with or without connector with:<br>-voltage of not more than 250\u00a0V,<br>-a current of not more than 1\u00a0A,<br>-a heat resistance of not more than 105\u00a0\u00b0C,<br>-individual wires of a thickness of not more than 0,1\u00a0mm (\u00b1 0,01\u00a0mm) and a width of not more than 0,8\u00a0mm (\u00b1 0,03\u00a0mm),<br>-a distance between conductors of not more than 0,5\u00a0mm and<br>-a pitch (distance from centreline to centreline of conductors) of not more than 1,25\u00a0mm",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "98654",
+    "code": "8544429040",
+    "description": "Wire harness or cable for steering system: - for an operating voltage of 12V, - with connectors on both sides, - whether or not with anchor clamps of plastic for mounting on a motorVehicle steering box",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "108777",
+    "code": "8544429045",
+    "description": "Specially designed\u00a0connector for solar power system:<br>                           -as 1-part system with 1\u00a0plastic housing with 1\u00a0or more but not more than 4\u00a0diodes and 2\u00a0insulated copper cables with connectors or<br>                           -as 3-part system with one plastic housing with 1\u00a0or more but not more than 4\u00a0diodes and 2\u00a0plastic housings with insulated copper cables with connectors,<br>                           -with a current for the diodes of\u00a03\u00a0A or more but not more of 50\u00a0A,<br>                           -with a cable length of not more than 1\u00a0500\u00a0mm,<br>                           -with a maximum rated voltage of 1\u00a0500\u00a0V",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "99613",
+    "code": "8544429050",
+    "description": "Four-core connecting cable containing two female connectors for the transmission of digital signals from navigation and/or audio systems to a USB connector and/or LCD monitor, for use in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109918",
+    "code": "8544429055",
+    "description": "Wire harness for the transmission of signals and/or electrical power,<br>-with a 26-PIN or 28-PIN wire to board connectors in crimping technology,<br>-bound by rubber or vinyl or electrical tape or conduit or a weave of extruded string or a combination thereof,<br>for connection of power supply with main printed (circuit) board assembly (PBA) and electrical components of refrigerator or washing machine",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "99967",
+    "code": "8544429070",
+    "description": "Electric conductors:<br>-\u00a0of a voltage of not more than 80\u00a0V,<br>-\u00a0with a length of not more than 120\u00a0cm,<br>-\u00a0fitted with connectors,<br>for use in the manufacture of hearing aids, accessory kits and speech processors",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "91191",
+    "code": "8544429090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "52862",
+    "code": "8544490000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "52867",
+    "code": "8544492000",
+    "description": "Of a kind used for telecommunications, for a voltage not exceeding 80\u00a0V",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87978",
+    "code": "8544499100",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "87979",
+    "code": "8544499100",
+    "description": "Wire and cables, with individual conductor wires of a diameter exceeding 0,51\u00a0mm",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87980",
+    "code": "8544499300",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "87981",
+    "code": "8544499300",
+    "description": "For a voltage not exceeding 80\u00a0V",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "87984",
+    "code": "8544499310",
+    "description": "Elastomeric connector, of rubber or silicone, consisting of one or more conductor elements",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "90675",
+    "code": "8544499320",
+    "description": "PET or PVC insulated flexible cable with or without connector with:<br>-voltage of not more than 250\u00a0V,<br>-a current of not more than 1\u00a0A,<br>-a heat resistance of not more than 105\u00a0\u00b0C,<br>-individual wires of a thickness of not more than 0,1\u00a0mm (\u00b1 0,01\u00a0mm) and a width of not more than 0,8\u00a0mm (\u00b1 0,03\u00a0mm),<br>-a distance between conductors of not more than 0,5\u00a0mm and<br>-a pitch (distance from centreline to centreline of conductors) of not more than 1,25\u00a0mm",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "99969",
+    "code": "8544499330",
+    "description": "Electric conductors:<br>-\u00a0of a voltage of not more than 80\u00a0V,<br>-\u00a0of a platinum-iridium-alloy,<br>-\u00a0coated with poly(tetrafluoroethylene),<br>-\u00a0without connectors,<br>for use in the manufacture of hearing aids, implants and speech processors",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "87985",
+    "code": "8544499390",
+    "description": "Other",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "87982",
+    "code": "8544499500",
+    "description": "For a voltage exceeding 80\u00a0V but less than 1\u00a0000\u00a0V",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "108788",
+    "code": "8544499510",
+    "description": "PET or PVC insulated flexible cable with or without connector with:<br>                           -voltage of not more than 250\u00a0V,<br>                           -a current of not more than 1\u00a0A,<br>                           -a heat resistance of not more than 105\u00a0\u00b0C,<br>                           -individual wires of a thickness of not more than 0,1\u00a0mm (\u00b1 0,01\u00a0mm) and a width of not more than 0,8\u00a0mm (\u00b1 0,03\u00a0mm),<br>                           -a distance between conductors of not more than 0,5\u00a0mm and<br>                           -a pitch (distance from centreline to centreline of conductors) of not more than 1,25\u00a0mm",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "109077",
+    "code": "8544499590",
+    "description": "Other",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "87983",
+    "code": "8544499900",
+    "description": "For a voltage of 1\u00a0000\u00a0V",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "52884",
+    "code": "8544600000",
+    "description": "Other electric conductors, for a voltage exceeding 1\u00a0000\u00a0V",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "52885",
+    "code": "8544601000",
+    "description": "With copper conductors",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "108778",
+    "code": "8544601010",
+    "description": "Specially designed\u00a0connector for solar power system:<br>                           -as 1-part system with 1\u00a0plastic housing with 1\u00a0or more but not more than 4\u00a0diodes and 2\u00a0insulated copper cables with connectors or<br>                           -as 3-part system with one plastic housing with 1\u00a0or more but not more than 4\u00a0diodes and 2\u00a0plastic housings with insulated copper cables with connectors,<br>                           -with a current for the diodes of\u00a03\u00a0A or more but not more of 50\u00a0A,<br>                           -with a cable length of not more than 1\u00a0500\u00a0mm,<br>                           -with a maximum rated voltage of 1\u00a0500\u00a0V",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108779",
+    "code": "8544601090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "52892",
+    "code": "8544609000",
+    "description": "With other conductors",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "52897",
+    "code": "8544700000",
+    "description": "Optical fibre cables",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "105511",
+    "code": "8544700010",
+    "description": "Single mode optical fibre cables, made up of one or more individually sheathed fibres, with protective casing, whether or not containing electric conductors; excluding cables in which all the optical fibres are individually fitted with operational connectors at one or both extremities and plastic insulated cables for submarine use containing a copper or aluminium conductor in which fibres are contained in metal module(s)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "109031",
+    "code": "8544700091",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109032",
+    "code": "8544700091",
+    "description": "Cables equal to or above 500 metres in length in which all the optical fibres are individually fitted with operational connectors at one or both extremities, excluding plastic insulated cables for submarine use containing a copper or aluminium conductor in which fibres are contained in metal module(s)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109033",
+    "code": "8544700099",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  }
+]

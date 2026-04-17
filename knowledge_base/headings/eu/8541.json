@@ -1,0 +1,107 @@
+[
+  {
+    "id": "51102",
+    "code": "8541100000",
+    "description": "Diodes, other than photosensitive or light-emitting diodes (LED)",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "51112",
+    "code": "8541210000",
+    "description": "Transistors, other than photosensitive transistors",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "51113",
+    "code": "8541210000",
+    "description": "With a dissipation rate of less than 1\u00a0W",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "51119",
+    "code": "8541290000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "51129",
+    "code": "8541300000",
+    "description": "Thyristors, diacs and triacs, other than photosensitive devices",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "107209",
+    "code": "8541410000",
+    "description": "Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED)",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "107210",
+    "code": "8541410000",
+    "description": "Light-emitting diodes (LED)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107211",
+    "code": "8541420000",
+    "description": "Photovoltaic cells not assembled in modules or made up into panels",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107212",
+    "code": "8541430000",
+    "description": "Photovoltaic cells assembled in modules or made up into panels",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107213",
+    "code": "8541490000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107214",
+    "code": "8541510000",
+    "description": "Other semiconductor devices",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "107215",
+    "code": "8541510000",
+    "description": "Semiconductor-based transducers",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107216",
+    "code": "8541590000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "51165",
+    "code": "8541600000",
+    "description": "Mounted piezo-electric crystals",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "51172",
+    "code": "8541900000",
+    "description": "Parts",
+    "leaf": true,
+    "indent": 1
+  }
+]

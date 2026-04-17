@@ -1,0 +1,163 @@
+{
+  "_note": "EU TARIC codes for our 5 product families. EU MFN rates researched via EU TARIC consultation tool and cross-validated with UK Trade Tariff API structure. HS-6 structure is identical to WCO HS; 8-10 digit extensions are EU-specific (TARIC). Rates as of April 2026.",
+
+  "pcb_pcba": {
+    "heading_8534": {
+      "description": "Printed circuits",
+      "eu_mfn_rate": "0%",
+      "taric_codes": [
+        {"code": "8534001100", "description": "Multilayer circuits, consisting only of conductor elements and contacts", "mfn": "0%"},
+        {"code": "8534001900", "description": "Other, consisting only of conductor elements and contacts", "mfn": "0%"},
+        {"code": "8534009000", "description": "With other passive elements", "mfn": "0%"}
+      ]
+    },
+    "heading_8473": {
+      "description": "Parts and accessories of ADP machines",
+      "eu_mfn_rate": "0%",
+      "note": "EU heading 8473 covers parts of computers/ADP machines. PCBAs for ADP machines classify here. Structure similar to US."
+    }
+  },
+
+  "ic_asic": {
+    "heading_8542": {
+      "description": "Electronic integrated circuits; parts thereof",
+      "eu_mfn_rate": "0%",
+      "taric_codes": [
+        {"code": "8542311100", "description": "Processors/controllers - MCOs (note 12(b)(3,4))", "mfn": "0%"},
+        {"code": "8542311900", "description": "Processors/controllers - other note 12(b)(3,4) goods", "mfn": "0%"},
+        {"code": "8542319000", "description": "Other processors and controllers", "mfn": "0%"},
+        {"code": "8542321100", "description": "Memories - MCOs", "mfn": "0%"},
+        {"code": "8542321900", "description": "Memories - other note 12(b)(3,4) goods", "mfn": "0%"},
+        {"code": "8542323100", "description": "DRAMs <=512Mb", "mfn": "0%"},
+        {"code": "8542323900", "description": "DRAMs >512Mb", "mfn": "0%"},
+        {"code": "8542324500", "description": "SRAMs", "mfn": "0%"},
+        {"code": "8542325500", "description": "EPROMs", "mfn": "0%"},
+        {"code": "8542326100", "description": "Flash EEPROMs <=512Mb", "mfn": "0%"},
+        {"code": "8542326900", "description": "Flash EEPROMs >512Mb", "mfn": "0%"},
+        {"code": "8542327500", "description": "Other EEPROMs", "mfn": "0%"},
+        {"code": "8542329000", "description": "Other memories", "mfn": "0%"},
+        {"code": "8542331000", "description": "Amplifiers - MCOs", "mfn": "0%"},
+        {"code": "8542339000", "description": "Other amplifiers", "mfn": "0%"},
+        {"code": "8542391100", "description": "Other ICs - MCOs", "mfn": "0%"},
+        {"code": "8542391900", "description": "Other ICs - note 12(b)(3,4) goods", "mfn": "0%"},
+        {"code": "8542399000", "description": "Other electronic integrated circuits", "mfn": "0%"},
+        {"code": "8542900000", "description": "Parts of electronic integrated circuits", "mfn": "0%"}
+      ]
+    }
+  },
+
+  "hfo_chemicals": {
+    "heading_2903_51": {
+      "description": "Unsaturated fluorinated derivatives - HFO compounds",
+      "eu_mfn_rate": "5.5%",
+      "taric_codes": [
+        {"code": "2903510010", "description": "HFO-1234yf (CAS 754-12-1)", "mfn": "5.5%"},
+        {"code": "2903510020", "description": "HFO-1234ze(E) (CAS 29118-24-9)", "mfn": "5.5%"},
+        {"code": "2903510090", "description": "Other (incl. HCFO-1233zd(E))", "mfn": "5.5%"}
+      ],
+      "note": "EU splits HFO-1234yf and HFO-1234ze(E) into separate TARIC lines. HCFO-1233zd(E) is under 2903.79 in EU (halogenated with both chlorine and fluorine)."
+    },
+    "heading_2903_59": {
+      "description": "Other unsaturated halogenated derivatives",
+      "eu_mfn_rate": "5.5%",
+      "taric_codes": [
+        {"code": "2903590030", "description": "Hexafluoropropene (CAS 116-15-4)", "mfn": "5.5%"},
+        {"code": "2903590040", "description": "1,1,2,3,4,4-Hexafluorobuta-1,3-diene (CAS 685-63-2)", "mfn": "5.5%"},
+        {"code": "2903590090", "description": "Other", "mfn": "5.5%"}
+      ]
+    },
+    "heading_2903_79": {
+      "description": "Other halogenated derivatives with two or more different halogens",
+      "eu_mfn_rate": "5.5%",
+      "taric_codes": [
+        {"code": "2903793010", "description": "Trans-1-chloro-3,3,3-trifluoropropene (HCFO-1233zd(E)) (CAS 102687-65-0)", "mfn": "5.5%"},
+        {"code": "2903793090", "description": "Other", "mfn": "5.5%"}
+      ],
+      "note": "HCFO-1233zd(E) has both chlorine and fluorine, so it falls under 2903.79 in EU rather than 2903.51."
+    },
+    "heading_3824": {
+      "description": "Preparations and mixtures NOS",
+      "eu_mfn_rate": "6.5%",
+      "note": "HFO mixtures/blends/preparations classify here, not in Ch.29."
+    }
+  },
+
+  "copper_wire": {
+    "heading_7408": {
+      "description": "Copper wire (uninsulated)",
+      "taric_codes": [
+        {"code": "7408110000", "description": "Refined copper, cross-section >6mm", "mfn": "4.8%"},
+        {"code": "7408191000", "description": "Refined copper, >0.5mm but <=6mm", "mfn": "4.8%"},
+        {"code": "7408199000", "description": "Refined copper, <=0.5mm", "mfn": "4.8%"},
+        {"code": "7408210000", "description": "Brass wire", "mfn": "4.8%"},
+        {"code": "7408220000", "description": "Cupro-nickel/nickel-silver wire", "mfn": "5%"},
+        {"code": "7408290000", "description": "Other copper alloy wire", "mfn": "5%"}
+      ]
+    },
+    "heading_7413": {
+      "description": "Stranded wire, cables of copper, not electrically insulated",
+      "taric_codes": [
+        {"code": "7413000010", "description": "With fittings, for civil aircraft", "mfn": "0%"},
+        {"code": "7413000090", "description": "Other", "mfn": "4.8%"}
+      ]
+    },
+    "heading_8544": {
+      "description": "Insulated wire, cable, electric conductors",
+      "taric_codes": [
+        {"code": "8544111000", "description": "Winding wire copper, lacquered/enamelled", "mfn": "3.7%"},
+        {"code": "8544119000", "description": "Winding wire copper, other", "mfn": "3.7%"},
+        {"code": "8544190000", "description": "Other winding wire", "mfn": "3.7%"},
+        {"code": "8544200090", "description": "Coaxial cable, other", "mfn": "3.3%"},
+        {"code": "8544300089", "description": "Vehicle wiring sets, other", "mfn": "3.7%"},
+        {"code": "8544421000", "description": "<=1000V, with connectors, telecom", "mfn": "0%"},
+        {"code": "8544429090", "description": "<=1000V, with connectors, other", "mfn": "3.3%"},
+        {"code": "8544492000", "description": "<=80V, telecom, no connectors", "mfn": "0%"},
+        {"code": "8544499390", "description": "<=80V, other, no connectors", "mfn": "3.3%"},
+        {"code": "8544499590", "description": ">80V <=1000V, other", "mfn": "3.3%"},
+        {"code": "8544601090", "description": ">1000V, copper conductors, other", "mfn": "3.3%"}
+      ]
+    }
+  },
+
+  "aluminum": {
+    "heading_7604": {
+      "description": "Aluminum bars, rods and profiles",
+      "taric_codes": [
+        {"code": "7604101090", "description": "Bars/rods, not alloyed, other", "mfn": "7%"},
+        {"code": "7604109089", "description": "Profiles, not alloyed, other", "mfn": "7.5%"},
+        {"code": "7604210000", "description": "Hollow profiles, alloyed", "mfn": "7.5%"},
+        {"code": "7604291000", "description": "Bars/rods, alloyed", "mfn": "7%"},
+        {"code": "7604299090", "description": "Other profiles, alloyed", "mfn": "7.5%"}
+      ],
+      "note": "EU anti-dumping duties apply on aluminum extrusions from China. See trade_remedies.json."
+    },
+    "heading_7608": {
+      "description": "Aluminum tubes and pipes",
+      "taric_codes": [
+        {"code": "7608100089", "description": "Not alloyed, other", "mfn": "7.5%"},
+        {"code": "7608208990", "description": "Alloyed, other", "mfn": "7.5%"}
+      ]
+    },
+    "heading_7610": {
+      "description": "Aluminum structures",
+      "taric_codes": [
+        {"code": "7610100000", "description": "Doors, windows, frames", "mfn": "6%"},
+        {"code": "7610909095", "description": "Other structures", "mfn": "6%"}
+      ]
+    },
+    "heading_7616": {
+      "description": "Other articles of aluminum",
+      "taric_codes": [
+        {"code": "7616991099", "description": "Cast articles, other", "mfn": "6%"},
+        {"code": "7616999099", "description": "Other articles, other", "mfn": "6%"}
+      ],
+      "note": "Die castings -> 7616.99.10.99 (cast). Machined housings/heatsinks -> 7616.99.90.99 (other)."
+    }
+  },
+
+  "metadata": {
+    "source": "EU TARIC consultation tool + UK Trade Tariff API (structural validation)",
+    "last_verified": "2026-04-14",
+    "notes": "EU MFN rates are from the Common Customs Tariff. UK rates may differ post-Brexit. Electronics (ICs, PCBs) are 0% MFN in EU under ITA (Information Technology Agreement). Chemical rates average ~5.5%. Copper/aluminum rates 3.3-7.5%."
+  }
+}

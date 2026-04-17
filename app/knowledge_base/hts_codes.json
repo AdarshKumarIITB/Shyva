@@ -1,0 +1,296 @@
+{
+  "pcb_pcba": {
+    "family": "Printed Circuit Boards and Assemblies",
+    "headings": {
+      "8534": {
+        "description": "Printed circuits",
+        "chapter_note": "Ch.85 Note 12(a): 'Printed circuits' are circuits obtained by forming on an insulating base, by any printing process, conducting elements, contacts or other printed components alone or interconnected. Does NOT include circuits combined with elements other than those obtained during the printing process, except certain non-printed connecting elements.",
+        "base_duty": {"general": "Free", "other": "35%"},
+        "hts10_variants": [
+          {"code": "8534.00.00.20", "description": "With 3 or more layers of conducting materials", "statistical_suffix": "20"},
+          {"code": "8534.00.00.40", "description": "Other (multilayer, 1-2 layers)", "statistical_suffix": "40"},
+          {"code": "8534.00.00.50", "description": "Having a base wholly of impregnated paper", "statistical_suffix": "50"},
+          {"code": "8534.00.00.70", "description": "Other (single/double sided, non-paper base)", "statistical_suffix": "70"},
+          {"code": "8534.00.00.80", "description": "Flexible type", "statistical_suffix": "80"},
+          {"code": "8534.00.00.85", "description": "Other, having a ceramic base", "statistical_suffix": "85"},
+          {"code": "8534.00.00.95", "description": "Other", "statistical_suffix": "95"}
+        ],
+        "when_this_heading": "Bare printed circuit board — no active or passive components mounted (other than non-printed connecting elements). Formed by printing on insulating base."
+      },
+      "8473.30": {
+        "description": "Parts and accessories of the machines of heading 8471 (ADP machines)",
+        "base_duty": {"general": "Free", "other": "35%"},
+        "hts10_variants": [
+          {"code": "8473.30.11.40", "description": "Memory modules suitable for use solely or principally with ADP machines", "general": "Free"},
+          {"code": "8473.30.11.80", "description": "Other printed circuit assemblies for ADP machines", "general": "Free"},
+          {"code": "8473.30.20.00", "description": "Parts and accessories, including face plates and lock latches, of printed circuit assemblies", "general": "Free"},
+          {"code": "8473.30.51.00", "description": "Other parts of ADP machines", "general": "Free"}
+        ],
+        "when_this_heading": "Populated printed circuit assembly (PCBA) that is a part solely or principally used with ADP machines (computers) of heading 8471. Must have active components mounted."
+      },
+      "8473.50": {
+        "description": "Parts equally suitable for use with machines of two or more headings 8470-8472",
+        "base_duty": {"general": "Free", "other": "35%"},
+        "hts10_variants": [
+          {"code": "8473.50.30.00", "description": "Printed circuit assemblies", "general": "Free"},
+          {"code": "8473.50.60.00", "description": "Parts of printed circuit assemblies", "general": "Free"},
+          {"code": "8473.50.90.00", "description": "Other", "general": "Free"}
+        ],
+        "when_this_heading": "PCBA parts equally suitable for multiple machine types in headings 8470-8472."
+      }
+    }
+  },
+
+  "ic_asic": {
+    "family": "Integrated Circuits and ASICs",
+    "headings": {
+      "8542": {
+        "description": "Electronic integrated circuits; parts thereof",
+        "chapter_note": "Ch.85 Note: Electronic integrated circuits are circuits in which the components are formed in the mass (essentially) and/or on the surface of a semiconductor material. Includes monolithic ICs, hybrid ICs, multichip ICs, and multi-component ICs (MCOs).",
+        "subheadings": {
+          "8542.31": {
+            "description": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
+            "base_duty": {"general": "Free", "other": "35%"},
+            "hts10_variants": [
+              {"code": "8542.31.00.15", "description": "8-bit microprocessors/controllers"},
+              {"code": "8542.31.00.20", "description": "16-bit"},
+              {"code": "8542.31.00.25", "description": "32-bit"},
+              {"code": "8542.31.00.30", "description": "Other (64-bit+)"},
+              {"code": "8542.31.00.35", "description": "Digital signal processors (DSPs)"},
+              {"code": "8542.31.00.40", "description": "Graphics processing units (GPUs)"},
+              {"code": "8542.31.00.45", "description": "Central processing units (CPUs)"},
+              {"code": "8542.31.00.50", "description": "Other processors"},
+              {"code": "8542.31.00.55", "description": "Complex programmable logic devices (CPLDs)"},
+              {"code": "8542.31.00.60", "description": "Field programmable gate arrays (FPGAs)"},
+              {"code": "8542.31.00.65", "description": "Other programmable logic"},
+              {"code": "8542.31.00.70", "description": "System on chip (SoCs)"},
+              {"code": "8542.31.00.75", "description": "Other controllers/processors"}
+            ],
+            "when_this_subheading": "Monolithic/hybrid/multichip IC whose primary function is processing or controlling. Includes ASICs that are processors, FPGAs, CPLDs, DSPs, GPUs, CPUs, SoCs."
+          },
+          "8542.32": {
+            "description": "Memories",
+            "base_duty": {"general": "Free", "other": "35%"},
+            "hts10_variants": [
+              {"code": "8542.32.00.02", "description": "DRAM, not over 128 megabits"},
+              {"code": "8542.32.00.24", "description": "DRAM, over 128Mb to 256Mb"},
+              {"code": "8542.32.00.28", "description": "DRAM, over 256Mb to 512Mb"},
+              {"code": "8542.32.00.32", "description": "DRAM, over 512Mb to 1Gb"},
+              {"code": "8542.32.00.36", "description": "DRAM, over 1Gb"},
+              {"code": "8542.32.00.41", "description": "SRAM"},
+              {"code": "8542.32.00.51", "description": "EEPROM"},
+              {"code": "8542.32.00.61", "description": "EPROM"},
+              {"code": "8542.32.00.71", "description": "Other memories (Flash, ROM, etc.)"}
+            ],
+            "when_this_subheading": "IC whose primary function is data storage/memory. Includes DRAM, SRAM, EEPROM, EPROM, Flash, ROM."
+          },
+          "8542.33": {
+            "description": "Amplifiers",
+            "base_duty": {"general": "Free", "other": "35%"},
+            "hts10_variants": [
+              {"code": "8542.33.00.01", "description": "Amplifiers"}
+            ],
+            "when_this_subheading": "IC whose primary function is signal amplification."
+          },
+          "8542.39": {
+            "description": "Other electronic integrated circuits",
+            "base_duty": {"general": "Free", "other": "35%"},
+            "hts10_variants": [
+              {"code": "8542.39.00.10", "description": "RF transceivers"},
+              {"code": "8542.39.00.20", "description": "Active filters"},
+              {"code": "8542.39.00.30", "description": "Analog to digital converters (ADCs)"},
+              {"code": "8542.39.00.40", "description": "Digital to analog converters (DACs)"},
+              {"code": "8542.39.00.50", "description": "Other converters"},
+              {"code": "8542.39.00.70", "description": "With adjustable performance characteristics, NESOI"},
+              {"code": "8542.39.00.90", "description": "Other"}
+            ],
+            "when_this_subheading": "ICs not classified as processors/controllers, memories, or amplifiers. Includes ASICs for specific functions (RF, power management, sensor interfaces, etc.), converters, and mixed-signal ICs."
+          },
+          "8542.90": {
+            "description": "Parts of electronic integrated circuits",
+            "base_duty": {"general": "Free", "other": "35%"},
+            "hts10_variants": [
+              {"code": "8542.90.00.00", "description": "Parts"}
+            ],
+            "when_this_subheading": "Parts of ICs: lead frames, chip carriers, die before bonding/packaging."
+          }
+        }
+      }
+    }
+  },
+
+  "hfo_chemicals": {
+    "family": "HFO Refrigerant Intermediates and Precursors",
+    "headings": {
+      "2903.51": {
+        "description": "Unsaturated fluorinated derivatives of acyclic hydrocarbons — HFO compounds",
+        "base_duty": {"general": "3.7%", "other": "25%"},
+        "special": "Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+        "hts10_variants": [
+          {"code": "2903.51.10.00", "description": "2,3,3,3-Tetrafluoropropene (HFO-1234yf), 1,3,3,3-tetrafluoropropene (HFO-1234ze(E)), and trans-1-chloro-3,3,3-trifluoropropene (HCFO-1233zd(E))"}
+        ],
+        "when_this_heading": "Specific named HFO/HCFO compounds: HFO-1234yf (CAS 754-12-1), HFO-1234ze(E) (CAS 29118-24-9), HCFO-1233zd(E) (CAS 102687-65-0). Separate chemically defined compounds, unsaturated, fluorinated.",
+        "cas_mapping": {
+          "754-12-1": "HFO-1234yf (2,3,3,3-Tetrafluoropropene)",
+          "29118-24-9": "HFO-1234ze(E) (1,3,3,3-Tetrafluoropropene)",
+          "102687-65-0": "HCFO-1233zd(E) (trans-1-chloro-3,3,3-trifluoropropene)"
+        }
+      },
+      "2903.59": {
+        "description": "Other unsaturated halogenated derivatives of acyclic hydrocarbons",
+        "subheadings": {
+          "2903.59.10.10": {
+            "description": "1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-prop-1-ene",
+            "base_duty": {"general": "3.7%", "other": "25%"},
+            "special": "Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)"
+          },
+          "2903.59.90.00": {
+            "description": "Other unsaturated halogenated derivatives",
+            "base_duty": {"general": "3.7%", "other": "25%"},
+            "special": "Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)"
+          }
+        },
+        "when_this_heading": "Other unsaturated fluorinated/halogenated acyclic hydrocarbons not specifically named in 2903.51. Includes HFO-1336mzz and other HFO precursors as separate chemically defined compounds."
+      },
+      "2903.49": {
+        "description": "Other saturated fluorinated derivatives of acyclic hydrocarbons",
+        "base_duty": {"general": "3.7%", "other": "25%"},
+        "special": "Free (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+        "hts10_variants": [
+          {"code": "2903.49.00.00", "description": "Other saturated fluorinated derivatives"}
+        ],
+        "when_this_heading": "Saturated fluorinated acyclic hydrocarbons (HFC series) not specifically named. Some HFO precursors that are saturated fluorinated compounds may fall here."
+      },
+      "3824": {
+        "description": "Prepared binders for foundry molds; chemical products and preparations NOS",
+        "note": "Heading 3824 covers mixtures and preparations of chemical products. If the HFO product is a MIXTURE or PREPARATION (not a separate chemically defined compound), it classifies here rather than in Ch.29.",
+        "when_this_heading": "HFO/refrigerant MIXTURES and PREPARATIONS (blends of multiple compounds, or preparations with additives). NOT separate chemically defined compounds."
+      }
+    },
+    "classification_logic": "Ch.29 Note 1: Headings of this chapter apply only to separate chemically defined organic compounds. If the product is a mixture/preparation -> heading 3824. If it is a separate chemically defined compound, identify if saturated (2903.4x) or unsaturated (2903.5x), then match to specific named compound lines."
+  },
+
+  "copper_wire": {
+    "family": "Copper Wire and Cable (Automotive Grade)",
+    "headings": {
+      "7408": {
+        "description": "Copper wire (uninsulated)",
+        "chapter": 74,
+        "base_duties": {
+          "7408.11.30.00": {"description": "Refined copper wire, cross-section >9.5mm", "general": "1%", "other": "7%"},
+          "7408.11.60.00": {"description": "Refined copper wire, 6-9.5mm cross-section", "general": "3%", "other": "28%"},
+          "7408.19.00": {"description": "Other refined copper wire (<6mm)", "general": "3%", "other": "28%"},
+          "7408.21.00.00": {"description": "Brass wire", "general": "3%", "other": "28%"},
+          "7408.22": {"description": "Cupro-nickel wire", "general": "3%", "other": "28%"},
+          "7408.29": {"description": "Other copper alloy wire", "general": "3%", "other": "28%"}
+        },
+        "when_this_heading": "Uninsulated copper wire (single strand). Not electrically insulated. Ch.74."
+      },
+      "7413": {
+        "description": "Stranded wire, cables, plaited bands of copper, not electrically insulated",
+        "chapter": 74,
+        "base_duties": {
+          "7413.00.10.00": {"description": "Stranded wire", "general": "3%", "other": "35%"},
+          "7413.00.50.00": {"description": "Other (cables, plaited bands)", "general": "2%", "other": "35%"},
+          "7413.00.90.00": {"description": "Fitted with fittings or made up into articles", "general": "3%", "other": "45%"}
+        },
+        "when_this_heading": "Uninsulated stranded copper wire or cable. NOT electrically insulated."
+      },
+      "8544": {
+        "description": "Insulated wire, cable and other insulated electric conductors; optical fiber cables",
+        "chapter": 85,
+        "subheadings": {
+          "8544.11": {"description": "Winding wire of copper", "general": "3.5%", "other": "40%"},
+          "8544.19": {"description": "Other winding wire", "general": "3.9%", "other": "35%"},
+          "8544.20": {"description": "Coaxial cable", "general": "5.3%", "other": "35%"},
+          "8544.30": {"description": "Ignition wiring sets and other wiring sets for vehicles, aircraft or ships", "general": "5%", "other": "30%"},
+          "8544.42": {
+            "description": "Other electric conductors <=1000V, fitted with connectors",
+            "variants": {
+              "8544.42.10.00": {"description": "With modular telephone connectors", "general": "Free"},
+              "8544.42.20.00": {"description": "For telecommunications", "general": "Free"},
+              "8544.42.90": {"description": "Other, fitted with connectors", "general": "2.6%"}
+            }
+          },
+          "8544.49": {
+            "description": "Other electric conductors <=1000V, not fitted with connectors",
+            "variants": {
+              "8544.49.10.00": {"description": "For telecommunications", "general": "Free"},
+              "8544.49.20.00": {"description": "Other <=80V", "general": "3.5%"},
+              "8544.49.30": {"description": "Of copper >80V <=1000V", "general": "5.3%"},
+              "8544.49.90.00": {"description": "Other", "general": "3.9%"}
+            }
+          },
+          "8544.60": {
+            "description": "Other electric conductors >1000V",
+            "variants": {
+              "8544.60.20.00": {"description": "Fitted with connectors", "general": "3.7%"},
+              "8544.60.40.00": {"description": "Of copper, not fitted", "general": "3.5%"},
+              "8544.60.60.00": {"description": "Other", "general": "3.2%"}
+            }
+          }
+        },
+        "when_this_heading": "Electrically insulated wire, cable, or conductors. The key branch: 8544.30 for vehicle wiring sets, 8544.42/49 for <=1000V (with/without connectors), 8544.60 for >1000V.",
+        "automotive_note": "8544.30 specifically covers 'Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships'. This is the primary code for automotive-grade wiring harnesses/sets."
+      }
+    },
+    "classification_logic": "First determine insulated vs uninsulated: Uninsulated -> Ch.74 (7408 single wire, 7413 stranded/cable). Insulated -> Ch.85 (8544). Then for 8544: vehicle wiring set -> 8544.30; with connectors <=1000V -> 8544.42; without connectors <=1000V -> 8544.49; >1000V -> 8544.60."
+  },
+
+  "aluminum": {
+    "family": "Aluminum Die Castings and Extrusions (Heatsinks, Housings)",
+    "headings": {
+      "7604": {
+        "description": "Aluminum bars, rods and profiles",
+        "base_duties": {
+          "7604.10.10.00": {"description": "Profiles, not alloyed", "general": "5%", "other": "45%"},
+          "7604.10.30.00": {"description": "Bars/rods round, not alloyed", "general": "2.6%", "other": "11%"},
+          "7604.10.50.00": {"description": "Bars/rods other, not alloyed", "general": "3%", "other": "13.5%"},
+          "7604.21.00": {"description": "Hollow profiles, alloyed", "general": "1.5%", "other": "15.5%"},
+          "7604.29.10": {"description": "Other profiles, alloyed", "general": "5%", "other": "45%"},
+          "7604.29.30": {"description": "Bars/rods round, alloyed", "general": "2.6%", "other": "11%"},
+          "7604.29.50": {"description": "Bars/rods other, alloyed", "general": "3%", "other": "13.5%"}
+        },
+        "when_this_heading": "Aluminum extrusions/profiles (including heatsink extrusions with heat-dissipation geometry). Hollow profiles under 7604.21, solid profiles under 7604.10.10 or 7604.29.10."
+      },
+      "7608": {
+        "description": "Aluminum tubes and pipes",
+        "base_duties": {
+          "7608.10.00": {"description": "Not alloyed", "general": "5.7%", "other": "45%"},
+          "7608.20.00": {"description": "Alloyed", "general": "5.7%", "other": "45%"}
+        },
+        "when_this_heading": "Aluminum tubes and pipes. Less common for heatsinks/housings but relevant if the article is tubular."
+      },
+      "7610": {
+        "description": "Aluminum structures",
+        "base_duties": {
+          "7610.10.00": {"description": "Doors, windows, frames, thresholds", "general": "5.7%", "other": "45%"},
+          "7610.90.00": {"description": "Other structures", "general": "5.7%", "other": "45%"}
+        },
+        "when_this_heading": "Aluminum structures and parts of structures. Relevant if the housing/enclosure is a structural element. Includes sheet-metal roofing, architectural work."
+      },
+      "7616": {
+        "description": "Other articles of aluminum",
+        "base_duties": {
+          "7616.91.00.00": {"description": "Cloth, grill, netting, fencing of aluminum wire", "general": "2.5%"},
+          "7616.99.51": {"description": "Other articles of aluminum", "general": "2.5%", "other": "45%"}
+        },
+        "hts10_variants": [
+          {"code": "7616.99.51.60", "description": "Castings"},
+          {"code": "7616.99.51.70", "description": "Forgings"},
+          {"code": "7616.99.51.75", "description": "Articles of wire"},
+          {"code": "7616.99.51.90", "description": "Other"}
+        ],
+        "when_this_heading": "Residual heading for aluminum articles not covered by more specific headings. Die castings -> 7616.99.51.60. Machined housings that are not profiles or structures -> 7616.99.51.90."
+      }
+    },
+    "classification_logic": "First determine form: extrusion/profile -> 7604; tube/pipe -> 7608; structural -> 7610; other article (casting, machined) -> 7616. For profiles: hollow -> 7604.21, solid -> 7604.29.10 or 7604.10.10. For castings: rough die casting = 7616.99.51.60. Check if 'part of' another machine — but test for specific headings first (Additional US Rules)."
+  },
+
+  "metadata": {
+    "source": "USITC HTS REST API (hts.usitc.gov/reststop)",
+    "data_version": "HTS 2026 current release",
+    "last_verified": "2026-04-14",
+    "notes": "Duty rates: 'general' = MFN/NTR rate. 'special' = preferential programs (A=GSP, AU=Australia FTA, etc.). 'other' = Column 2 rate (Cuba, North Korea). All products in our scope have MFN rates of Free or low single-digit percentages."
+  }
+}

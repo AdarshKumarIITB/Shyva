@@ -1,0 +1,184 @@
+[
+  {
+    "id": "47070",
+    "code": "7616100000",
+    "description": "Nails, tacks, staples (other than those of heading\u00a08305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "47071",
+    "code": "7616100010",
+    "description": "Self-locking bolts and nuts (of the type \"Hi-lok\")",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "47072",
+    "code": "7616100091",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "47073",
+    "code": "7616100091",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "47074",
+    "code": "7616100099",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "63212",
+    "code": "7616910000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "60312",
+    "code": "7616910000",
+    "description": "Cloth, grill, netting and fencing, of aluminium wire",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "60313",
+    "code": "7616990000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "60314",
+    "code": "7616991000",
+    "description": "Cast",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "60935",
+    "code": "7616991010",
+    "description": "Collars, flanges and other devices for fixing, jointing, clamping or spacing, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "60936",
+    "code": "7616991020",
+    "description": "\"Quick change\" apparatus for transforming passenger transport aeroplanes into goods transport aeroplanes and vice versa, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "96606",
+    "code": "7616991091",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "96612",
+    "code": "7616991091",
+    "description": "Aluminium radiators and elements or sections of which such radiator is composed, whether or not such elements are assembled in blocks",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "96607",
+    "code": "7616991099",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "60315",
+    "code": "7616999000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "96615",
+    "code": "7616999001",
+    "description": "Hand-made",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "96613",
+    "code": "7616999001",
+    "description": "Aluminium radiators and elements or sections of which such radiator is composed, whether or not such elements are assembled in blocks",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "96608",
+    "code": "7616999009",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "109078",
+    "code": "7616999015",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "60939",
+    "code": "7616999020",
+    "description": "\"Quick change\" apparatus for transforming passenger transport aeroplanes into goods transport aeroplanes and vice versa, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "60940",
+    "code": "7616999030",
+    "description": "Plates and sheets of variable thickness of widths of 1\u00a0200\u00a0mm or more, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "96357",
+    "code": "7616999070",
+    "description": "Connecting components for use in the production of helicopter tail rotor shafts",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "97562",
+    "code": "7616999077",
+    "description": "Television pedestal stands with or without bracket for fixation to and stabilization of television cabinet case/body",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "96609",
+    "code": "7616999091",
+    "description": "Other",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "96614",
+    "code": "7616999091",
+    "description": "Aluminium radiators and elements or sections of which such radiator is composed, whether or not such elements are assembled in blocks",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "96610",
+    "code": "7616999099",
+    "description": "Other",
+    "leaf": true,
+    "indent": 6
+  }
+]

@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shyva — Tariff Classification</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #1a1a2e; line-height: 1.6; }
+        header { background: #1a1a2e; color: white; padding: 20px 40px; }
+        header h1 { font-size: 24px; font-weight: 700; }
+        header p { font-size: 14px; opacity: 0.7; }
+        main { max-width: 900px; margin: 30px auto; padding: 0 20px; }
+        section { background: white; border-radius: 8px; padding: 28px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        h2 { font-size: 20px; font-weight: 700; color: #1a1a2e; margin-bottom: 16px; border-bottom: 2px solid #e8ecf1; padding-bottom: 10px; }
+        label { font-weight: 600; display: block; margin-bottom: 6px; font-size: 14px; }
+        textarea { width: 100%; padding: 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 15px; font-family: inherit; resize: vertical; }
+        textarea:focus { outline: none; border-color: #3b82f6; box-shadow: 0 0 0 3px rgba(59,130,246,0.1); }
+        small.hint { color: #6b7280; display: block; margin-top: 6px; font-size: 13px; }
+        .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 16px; }
+        select { width: 100%; padding: 10px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; background: white; }
+        button.primary { background: #3b82f6; color: white; border: none; padding: 12px 32px; border-radius: 6px; font-size: 15px; font-weight: 600; cursor: pointer; margin-top: 20px; }
+        button.primary:hover { background: #2563eb; }
+        button.primary:disabled { background: #94a3b8; cursor: not-allowed; }
+        .hidden { display: none; }
+
+        /* Question card */
+        .question-card { background: #f0f7ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 20px; }
+        .question-card p.q-text { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+        .question-card p.q-reason { font-size: 13px; color: #6b7280; margin-bottom: 14px; }
+        .option-btn { display: block; width: 100%; text-align: left; padding: 10px 14px; margin-bottom: 8px; border: 1px solid #d1d5db; border-radius: 6px; background: white; font-size: 14px; cursor: pointer; }
+        .option-btn:hover { background: #eff6ff; border-color: #3b82f6; }
+        .custom-answer { display: flex; gap: 8px; margin-top: 8px; }
+        .custom-answer input { flex: 1; padding: 10px 12px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; }
+        .custom-answer button { padding: 10px 20px; }
+
+        /* Result */
+        .result-grid { display: grid; grid-template-columns: 160px 1fr; gap: 8px 16px; font-size: 14px; }
+        .result-grid .label { font-weight: 600; color: #6b7280; }
+        .result-grid .value { color: #1a1a2e; }
+        .code-highlight { font-size: 28px; font-weight: 700; color: #059669; font-family: 'SF Mono', 'Fira Code', monospace; margin-bottom: 16px; }
+        .confidence-badge { display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600; text-transform: uppercase; }
+        .confidence-high { background: #d1fae5; color: #065f46; }
+        .confidence-medium { background: #fef3c7; color: #92400e; }
+
+        /* Candidates */
+        .candidates { margin-top: 16px; }
+        .candidates summary { cursor: pointer; font-weight: 600; font-size: 14px; color: #3b82f6; }
+        .candidate-item { padding: 8px 0; border-bottom: 1px solid #f3f4f6; font-size: 13px; }
+        .candidate-item .code { font-weight: 600; font-family: monospace; }
+        .candidate-item .reason { color: #6b7280; }
+
+        /* Spinner */
+        .spinner { display: inline-block; width: 18px; height: 18px; border: 2px solid #d1d5db; border-top-color: #3b82f6; border-radius: 50%; animation: spin 0.7s linear infinite; vertical-align: middle; margin-right: 8px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .processing-msg { font-size: 14px; color: #6b7280; margin-top: 12px; }
+
+        /* Reasoning */
+        .reasoning-box { background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 6px; padding: 14px; margin-top: 12px; font-size: 13px; line-height: 1.7; white-space: pre-wrap; }
+        .legal-basis { margin-top: 12px; }
+        .legal-basis li { font-size: 13px; color: #4b5563; margin-left: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shyva</h1>
+        <p>Tariff Classification Engine</p>
+    </header>
+
+    <main>
+        <section id="input-section">
+            <h2>Product Classification</h2>
+            <form id="classify-form">
+                <div>
+                    <label for="description">Product Description</label>
+                    <textarea id="description" rows="4" placeholder="Describe the product: what it is, what it does, material, form factor, specs. Example: 'Packaged 3-phase gate-driver integrated circuit chip for EV traction inverter, standalone IC, no PCB'"></textarea>
+                    <small class="hint">Better descriptions = more accurate classification. Avoid brand names. Include material, function, form, and specs.</small>
+                </div>
+                <div class="form-row">
+                    <div>
+                        <label for="origin">Origin Country</label>
+                        <select id="origin">
+                            <option value="IN">India (IN)</option>
+                            <option value="CN">China (CN)</option>
+                            <option value="VN">Vietnam (VN)</option>
+                            <option value="EU">Europe (EU)</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="destination">Destination</label>
+                        <select id="destination">
+                            <option value="US">United States (US)</option>
+                            <option value="EU">European Union (EU)</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="primary" id="classify-btn">Classify</button>
+            </form>
+        </section>
+
+        <section id="processing-section" class="hidden">
+            <div class="processing-msg"><span class="spinner"></span> Agent is analyzing the product and reading tariff schedules...</div>
+        </section>
+
+        <section id="question-section" class="hidden">
+            <h2>Clarification Needed</h2>
+            <div id="question-container"></div>
+        </section>
+
+        <section id="result-section" class="hidden">
+            <h2>Classification Result</h2>
+            <div id="result-container"></div>
+        </section>
+    </main>
+
+    <script>
+    const API = '/api/v3';
+    let sessionId = null;
+
+    const $ = id => document.getElementById(id);
+
+    $('classify-form').addEventListener('submit', async e => {
+        e.preventDefault();
+        const desc = $('description').value.trim();
+        if (!desc) return;
+        const origin = $('origin').value;
+        const dest = $('destination').value;
+        if (origin === dest) { alert('Origin and destination cannot be the same.'); return; }
+        if (origin === 'EU' && dest === 'EU') { alert('EU to EU is not a supported trade lane.'); return; }
+
+        $('classify-btn').disabled = true;
+        $('processing-section').classList.remove('hidden');
+        $('question-section').classList.add('hidden');
+        $('result-section').classList.add('hidden');
+
+        try {
+            const res = await fetch(`${API}/classify`, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    description: desc,
+                    origin: $('origin').value,
+                    destination: $('destination').value,
+                }),
+            });
+            if (!res.ok) {
+                const text = await res.text();
+                alert('Server error: ' + (text || res.statusText));
+                return;
+            }
+            const data = await res.json();
+            sessionId = data.session_id;
+            handleResponse(data);
+        } catch (err) {
+            alert('Error: ' + err.message);
+        } finally {
+            $('classify-btn').disabled = false;
+            $('processing-section').classList.add('hidden');
+        }
+    });
+
+    function handleResponse(data) {
+        if (data.status === 'clarifying') {
+            const phase = data.phase || 'heading';
+            showQuestion(data.question, phase);
+        } else if (data.status === 'suffix_resolved') {
+            showFinalResult(data.classification, data.duty_stack);
+        } else if (data.status === 'heading_resolved') {
+            showHeadingResult(data.heading);
+        } else if (data.status === 'subheading_resolved') {
+            showFullResult(data.classification);
+        } else if (data.status === 'classified') {
+            showResult(data.classification);
+        } else if (data.status === 'error') {
+            alert('Error: ' + (data.error || 'Unknown'));
+        }
+    }
+
+    function showQuestion(q, phase) {
+        $('question-section').classList.remove('hidden');
+        const container = $('question-container');
+        const phaseLabel = phase === 'subheading' ? 'Narrowing subheading' : 'Determining heading';
+        let html = `<div class="question-card">
+            <p style="font-size:11px;text-transform:uppercase;color:#6b7280;margin-bottom:6px;">${phaseLabel}</p>
+            <p class="q-text">${q.question}</p>
+            <p class="q-reason">${q.reason}</p>`;
+
+        if (q.options && q.options.length > 0) {
+            for (const opt of q.options) {
+                html += `<button class="option-btn" onclick="submitAnswer('${opt.replace(/'/g, "\\'")}')">${opt}</button>`;
+            }
+        }
+
+        html += `<div class="custom-answer">
+            <input type="text" id="custom-input" placeholder="Or type your answer...">
+            <button class="primary" onclick="submitAnswer(document.getElementById('custom-input').value)">Send</button>
+        </div></div>`;
+
+        container.innerHTML = html;
+    }
+
+    async function submitAnswer(answer) {
+        if (!answer.trim()) return;
+        $('question-section').classList.add('hidden');
+        $('processing-section').classList.remove('hidden');
+
+        try {
+            const res = await fetch(`${API}/clarify`, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ session_id: sessionId, answer }),
+            });
+            if (!res.ok) {
+                const text = await res.text();
+                alert('Server error: ' + (text || res.statusText));
+                return;
+            }
+            const data = await res.json();
+            handleResponse(data);
+        } catch (err) {
+            alert('Error: ' + err.message);
+        } finally {
+            $('processing-section').classList.add('hidden');
+        }
+    }
+
+    function showHeadingResult(h) {
+        $('result-section').classList.remove('hidden');
+        const confClass = h.confidence === 'high' ? 'confidence-high' : 'confidence-medium';
+
+        let candidatesHtml = '';
+        if (h.candidates_considered && h.candidates_considered.length > 0) {
+            candidatesHtml = `<details class="candidates"><summary>Alternatives considered (${h.candidates_considered.length})</summary>`;
+            for (const cand of h.candidates_considered) {
+                candidatesHtml += `<div class="candidate-item"><span class="code">${cand.heading}</span> <span class="reason">— ${cand.why_rejected}</span></div>`;
+            }
+            candidatesHtml += '</details>';
+        }
+
+        let legalHtml = '';
+        if (h.legal_basis && h.legal_basis.length > 0) {
+            legalHtml = '<ul class="legal-basis">' + h.legal_basis.map(l => `<li>${l}</li>`).join('') + '</ul>';
+        }
+
+        let assumptionsHtml = '';
+        if (h.assumptions && h.assumptions.length > 0) {
+            assumptionsHtml = '<div style="margin-top:12px;padding:10px;background:#fef3c7;border-radius:6px;font-size:13px;"><strong>Assumptions made:</strong><ul style="margin:4px 0 0 20px;">' +
+                h.assumptions.map(a => `<li>${a}</li>`).join('') + '</ul></div>';
+        }
+
+        $('result-container').innerHTML = `
+            <div class="code-highlight">${h.heading}.XX.XXXX</div>
+            <span class="confidence-badge ${confClass}">${h.confidence} confidence</span>
+            <div class="result-grid" style="margin-top:16px;">
+                <span class="label">Heading</span><span class="value">${h.heading}</span>
+                <span class="label">Chapter</span><span class="value">${h.chapter}</span>
+                <span class="label">Heading Term</span><span class="value">${h.heading_term}</span>
+            </div>
+            <div class="reasoning-box">${h.reasoning}</div>
+            ${legalHtml}
+            ${candidatesHtml}
+            ${assumptionsHtml}
+            <p style="margin-top:16px;color:#6b7280;font-size:13px;">Heading locked. Subheading agent will resolve the remaining digits next.</p>
+        `;
+    }
+
+    function showFinalResult(data, dutyStack) {
+        $('result-section').classList.remove('hidden');
+        const h = data.heading;
+        const s = data.subheading;
+        const n = data.national;
+        const sf = data.suffix;
+        const confClass = sf.confidence === 'high' ? 'confidence-high' : 'confidence-medium';
+
+        function buildRejectedHtml(items, label) {
+            if (!items || items.length === 0) return '';
+            let html = `<details class="candidates"><summary>${label} (${items.length})</summary>`;
+            for (const c of items) {
+                const code = c.code || c.heading || '';
+                html += `<div class="candidate-item"><span class="code">${code}</span> <span class="reason">— ${c.why_rejected}</span></div>`;
+            }
+            return html + '</details>';
+        }
+
+        const allAssumptions = [...(h.assumptions||[]), ...(s.assumptions||[]), ...(n.assumptions||[]), ...(sf.assumptions||[])];
+        let assumptionsHtml = allAssumptions.length > 0
+            ? '<div style="margin-top:12px;padding:10px;background:#fef3c7;border-radius:6px;font-size:13px;"><strong>Assumptions:</strong><ul style="margin:4px 0 0 20px;">' +
+              allAssumptions.map(a => `<li>${a}</li>`).join('') + '</ul></div>' : '';
+
+        const hs6Display = s.hs6.includes('.') ? s.hs6 : s.hs6.substring(0,4) + '.' + s.hs6.substring(4,6);
+        const code8 = n.code_8digit || '';
+
+        $('result-container').innerHTML = `
+            <div class="code-highlight">${sf.final_code}</div>
+            <span class="confidence-badge ${confClass}">${sf.confidence} confidence</span>
+            ${sf.duty_rate ? `<span style="margin-left:12px;font-size:14px;color:#6b7280;">Duty: ${sf.duty_rate}</span>` : ''}
+            <div class="result-grid" style="margin-top:16px;">
+                <span class="label">Heading</span><span class="value">${h.heading} — ${h.heading_term}</span>
+                <span class="label">Subheading</span><span class="value">${hs6Display} — ${s.subheading_term}</span>
+                <span class="label">8-digit Code</span><span class="value">${code8} — ${n.description}</span>
+                <span class="label">Final Code</span><span class="value">${sf.final_code} — ${sf.description}</span>
+            </div>
+
+            <h3 style="margin-top:20px;font-size:14px;font-weight:600;">Stage 1: Heading</h3>
+            <div class="reasoning-box">${h.reasoning}</div>
+            ${buildRejectedHtml(h.candidates_considered, 'Heading alternatives eliminated')}
+
+            <h3 style="margin-top:16px;font-size:14px;font-weight:600;">Stage 2: Subheading</h3>
+            <div class="reasoning-box">${s.reasoning}</div>
+            ${buildRejectedHtml(s.candidates_rejected, 'Subheading alternatives eliminated')}
+
+            <h3 style="margin-top:16px;font-size:14px;font-weight:600;">Stage 3: 8-digit Code</h3>
+            <div class="reasoning-box">${n.reasoning}</div>
+            ${buildRejectedHtml(n.candidates_rejected, '8-digit alternatives eliminated')}
+
+            <h3 style="margin-top:16px;font-size:14px;font-weight:600;">Stage 4: Final Code</h3>
+            <div class="reasoning-box">${sf.reasoning}</div>
+            ${buildRejectedHtml(sf.candidates_rejected, 'Final code alternatives eliminated')}
+
+            ${assumptionsHtml}
+            ${dutyStack ? renderDutyStack(dutyStack) : ''}
+        `;
+    }
+
+    function renderDutyStack(ds) {
+        if (!ds || !ds.layers || ds.layers.length === 0) {
+            return ds && ds.warnings && ds.warnings.length > 0
+                ? `<div style="margin-top:20px;padding:12px;background:#fef2f2;border-radius:6px;font-size:13px;">${ds.warnings.join('<br>')}</div>`
+                : '';
+        }
+
+        const typeLabels = {
+            'MFN': 'MFN Base Duty', 'section_301': 'Section 301 (China)',
+            'section_232': 'Section 232', 'section_122': 'Section 122 (Reciprocal)',
+            'preferential': 'Preferential Rate', 'gsp': 'EU GSP',
+            'eu_ad': 'Anti-Dumping (EU)', 'safeguard': 'Safeguard',
+            'mpf': 'Merchandise Processing Fee', 'hmf': 'Harbor Maintenance Fee',
+            'vat': 'Import VAT',
+        };
+
+        let rows = '';
+        for (const l of ds.layers) {
+            const label = typeLabels[l.measure_type] || l.measure_type;
+            rows += `<tr>
+                <td style="font-weight:600;">${label}</td>
+                <td style="font-family:monospace;">${l.rate_value}</td>
+                <td style="font-size:12px;color:#6b7280;">${l.applies_because || ''}</td>
+            </tr>`;
+        }
+
+        let html = `
+            <h3 style="margin-top:24px;font-size:16px;font-weight:700;border-top:2px solid #e5e7eb;padding-top:16px;">Duty Stack</h3>
+            <div style="font-size:22px;font-weight:700;color:#dc2626;margin:8px 0;">Total: ${ds.total_ad_valorem_estimate || 'N/A'}</div>
+            <table style="width:100%;border-collapse:collapse;font-size:13px;margin-top:8px;">
+                <thead><tr style="border-bottom:2px solid #e5e7eb;text-align:left;">
+                    <th style="padding:6px 8px;">Measure</th>
+                    <th style="padding:6px 8px;">Rate</th>
+                    <th style="padding:6px 8px;">Applies Because</th>
+                </tr></thead>
+                <tbody>${rows}</tbody>
+            </table>`;
+
+        if (ds.warnings && ds.warnings.length > 0) {
+            html += `<div style="margin-top:12px;padding:10px;background:#fef2f2;border:1px solid #fecaca;border-radius:6px;font-size:13px;">
+                <strong>Warnings:</strong><ul style="margin:4px 0 0 16px;">${ds.warnings.map(w => '<li>'+w+'</li>').join('')}</ul></div>`;
+        }
+
+        if (ds.flags && ds.flags.length > 0) {
+            html += `<div style="margin-top:8px;padding:10px;background:#eff6ff;border:1px solid #bfdbfe;border-radius:6px;font-size:13px;">
+                <strong>Regulatory Flags:</strong><ul style="margin:4px 0 0 16px;">${ds.flags.map(f => '<li>'+f+'</li>').join('')}</ul></div>`;
+        }
+
+        if (ds.notes && ds.notes.length > 0) {
+            html += `<details style="margin-top:8px;font-size:13px;"><summary style="cursor:pointer;font-weight:600;color:#3b82f6;">Notes (${ds.notes.length})</summary>
+                <ul style="margin:4px 0 0 16px;">${ds.notes.map(n => '<li>'+n+'</li>').join('')}</ul></details>`;
+        }
+
+        if (ds.assumptions && ds.assumptions.length > 0) {
+            html += `<details style="margin-top:8px;font-size:13px;"><summary style="cursor:pointer;font-weight:600;color:#6b7280;">Assumptions (${ds.assumptions.length})</summary>
+                <ul style="margin:4px 0 0 16px;">${ds.assumptions.map(a => '<li>'+a+'</li>').join('')}</ul></details>`;
+        }
+
+        return html;
+    }
+
+    function showFullResult(data) {
+        $('result-section').classList.remove('hidden');
+        const h = data.heading;
+        const s = data.subheading;
+        const confClass = s.confidence === 'high' ? 'confidence-high' : 'confidence-medium';
+
+        // Format: 8542.39.XXXX
+        const hs6Display = s.hs6.includes('.') ? s.hs6 : s.hs6.substring(0,4) + '.' + s.hs6.substring(4,6);
+        const codeDisplay = hs6Display + '.XXXX';
+
+        let rejectedHtml = '';
+        if (s.candidates_rejected && s.candidates_rejected.length > 0) {
+            rejectedHtml = `<details class="candidates"><summary>Subheading alternatives eliminated (${s.candidates_rejected.length})</summary>`;
+            for (const c of s.candidates_rejected) {
+                rejectedHtml += `<div class="candidate-item"><span class="code">${c.code}</span> <span class="reason">— ${c.why_rejected}</span></div>`;
+            }
+            rejectedHtml += '</details>';
+        }
+
+        let headingCandHtml = '';
+        if (h.candidates_considered && h.candidates_considered.length > 0) {
+            headingCandHtml = `<details class="candidates"><summary>Heading alternatives eliminated (${h.candidates_considered.length})</summary>`;
+            for (const c of h.candidates_considered) {
+                headingCandHtml += `<div class="candidate-item"><span class="code">${c.heading}</span> <span class="reason">— ${c.why_rejected}</span></div>`;
+            }
+            headingCandHtml += '</details>';
+        }
+
+        let legalHtml = '';
+        const allLegal = [...(h.legal_basis || []), ...(s.legal_basis || [])];
+        if (allLegal.length > 0) {
+            legalHtml = '<ul class="legal-basis">' + allLegal.map(l => `<li>${l}</li>`).join('') + '</ul>';
+        }
+
+        let assumptionsHtml = '';
+        const allAssumptions = [...(h.assumptions || []), ...(s.assumptions || [])];
+        if (allAssumptions.length > 0) {
+            assumptionsHtml = '<div style="margin-top:12px;padding:10px;background:#fef3c7;border-radius:6px;font-size:13px;"><strong>Assumptions:</strong><ul style="margin:4px 0 0 20px;">' +
+                allAssumptions.map(a => `<li>${a}</li>`).join('') + '</ul></div>';
+        }
+
+        $('result-container').innerHTML = `
+            <div class="code-highlight">${codeDisplay}</div>
+            <span class="confidence-badge ${confClass}">${s.confidence} confidence</span>
+            <div class="result-grid" style="margin-top:16px;">
+                <span class="label">Heading</span><span class="value">${h.heading} — ${h.heading_term}</span>
+                <span class="label">Subheading (HS-6)</span><span class="value">${hs6Display} — ${s.subheading_term}</span>
+            </div>
+            <h3 style="margin-top:20px;font-size:14px;font-weight:600;">Heading Reasoning</h3>
+            <div class="reasoning-box">${h.reasoning}</div>
+            ${headingCandHtml}
+            <h3 style="margin-top:20px;font-size:14px;font-weight:600;">Subheading Reasoning</h3>
+            <div class="reasoning-box">${s.reasoning}</div>
+            ${rejectedHtml}
+            ${legalHtml}
+            ${assumptionsHtml}
+            <p style="margin-top:16px;color:#6b7280;font-size:13px;">Subheading locked. National code agent will resolve the remaining 4 digits next.</p>
+        `;
+    }
+
+    function showResult(c) {
+        $('result-section').classList.remove('hidden');
+        const confClass = c.confidence === 'high' ? 'confidence-high' : 'confidence-medium';
+
+        let candidatesHtml = '';
+        if (c.candidates_considered && c.candidates_considered.length > 0) {
+            candidatesHtml = `<details class="candidates"><summary>Alternatives considered (${c.candidates_considered.length})</summary>`;
+            for (const cand of c.candidates_considered) {
+                candidatesHtml += `<div class="candidate-item"><span class="code">${cand.code}</span> <span class="reason">— ${cand.why_rejected}</span></div>`;
+            }
+            candidatesHtml += '</details>';
+        }
+
+        let legalHtml = '';
+        if (c.legal_basis && c.legal_basis.length > 0) {
+            legalHtml = '<ul class="legal-basis">' + c.legal_basis.map(l => `<li>${l}</li>`).join('') + '</ul>';
+        }
+
+        let assumptionsHtml = '';
+        if (c.assumptions && c.assumptions.length > 0) {
+            assumptionsHtml = '<div style="margin-top:12px;padding:10px;background:#fef3c7;border-radius:6px;font-size:13px;"><strong>Assumptions made:</strong><ul style="margin:4px 0 0 20px;">' +
+                c.assumptions.map(a => `<li>${a}</li>`).join('') + '</ul></div>';
+        }
+
+        $('result-container').innerHTML = `
+            <div class="code-highlight">${c.national_code}</div>
+            <span class="confidence-badge ${confClass}">${c.confidence} confidence</span>
+            <div class="result-grid" style="margin-top:16px;">
+                <span class="label">Heading (4-digit)</span><span class="value">${c.heading}</span>
+                <span class="label">HS-6</span><span class="value">${c.hs6}</span>
+                <span class="label">National Code</span><span class="value">${c.national_code}</span>
+                <span class="label">Description</span><span class="value">${c.description}</span>
+            </div>
+            <div class="reasoning-box">${c.reasoning}</div>
+            ${legalHtml}
+            ${candidatesHtml}
+            ${assumptionsHtml}
+        `;
+    }
+    </script>
+</body>
+</html>

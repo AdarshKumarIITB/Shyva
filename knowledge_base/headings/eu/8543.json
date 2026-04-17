@@ -1,0 +1,247 @@
+[
+  {
+    "id": "87884",
+    "code": "8543100000",
+    "description": "Particle accelerators",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "52807",
+    "code": "8543200000",
+    "description": "Signal generators",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "52808",
+    "code": "8543300000",
+    "description": "Machines and apparatus for electroplating, electrolysis or electrophoresis",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "102605",
+    "code": "8543304000",
+    "description": "Electroplating and electrolysis machines of a kind used solely or principally for the manufacture of printed circuits",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102606",
+    "code": "8543307000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107217",
+    "code": "8543400000",
+    "description": "Electronic cigarettes and similar personal electric vaporizing devices",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "87886",
+    "code": "8543700000",
+    "description": "Other machines and apparatus",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "102607",
+    "code": "8543700100",
+    "description": "Articles specifically designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102609",
+    "code": "8543700200",
+    "description": "Microwave amplifiers",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102610",
+    "code": "8543700300",
+    "description": "Cordless infrared remote control devices for video game consoles",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102611",
+    "code": "8543700400",
+    "description": "Digital flight-data recorders",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102612",
+    "code": "8543700500",
+    "description": "Portable battery operated electronic readers for recording and reproducing text, still image or audio file",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102613",
+    "code": "8543700600",
+    "description": "Digital signal processing apparatus capable of connecting to a wired or wireless network for the mixing of sound",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102614",
+    "code": "8543700700",
+    "description": "Portable interactive electronic education devices primarily designed for children",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102615",
+    "code": "8543700800",
+    "description": "Plasma cleaner machines that remove organic contaminants from electron microscopy specimens and specimen holders",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "102616",
+    "code": "8543700900",
+    "description": "Touch-Sensitive Data Input Devices (so-called touch screens) without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "87887",
+    "code": "8543701000",
+    "description": "Electrical machines with translation or dictionary functions",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "87888",
+    "code": "8543703000",
+    "description": "Aerial amplifiers",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "93338",
+    "code": "8543705000",
+    "description": "Sunbeds, sunlamps and similar suntanning equipment",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "87894",
+    "code": "8543706000",
+    "description": "Electric fence energisers",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "87895",
+    "code": "8543709000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "87912",
+    "code": "8543709005",
+    "description": "Flight recorders, electric synchros and transducers, defrosters and demisters with electric resistors, for use in civil aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87906",
+    "code": "8543709010",
+    "description": "Engine pressure indicators, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "102923",
+    "code": "8543709015",
+    "description": "Laminated electrochromic film consisting of:<br>-\u00a0two outer layers of polyester,<br>-\u00a0a middle layer of acrylic polymer and silicone, and<br>-\u00a0two electric connection terminals<br>",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108427",
+    "code": "8543709027",
+    "description": "Electronic control unit of the 360-degree vehicle situation display system with:<br>-an operating DC voltage of 9\u00a0V or more but not more than 16\u00a0V,<br>-a videoprocessor,<br>-a signal processor,<br>-one or more connectors, and<br>-whether or not with a metal mounting bracket,\u00a0<br>for use in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87917",
+    "code": "8543709030",
+    "description": "Amplifier, consisting of active and passive elements mounted on a printed circuit, contained in a housing",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "100498",
+    "code": "8543709033",
+    "description": "High-frequency amplifier comprising one or more integrated circuits and one or more discrete capacitor chips, whether or not with IPD (integrated passive devices) on a metal flange in a housing",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87920",
+    "code": "8543709045",
+    "description": "Piezo-electric crystal oscillator with a fixed frequency, within a frequency range of 1,8\u00a0MHz to 67\u00a0MHz, contained in a housing",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87922",
+    "code": "8543709055",
+    "description": "Opto-electronic circuit comprising one or more light-emitting diodes (LEDs), whether or not equipped with an integrated driving circuit, and one photodiode with amplifier circuit, whether or not with an integrated logic gate arrays circuit or one or more light-emitting diodes and at least 2\u00a0photodiodes with an amplifier circuit, whether or not with an integrated logic gate arrays circuit or other integrated circuits, contained in a housing",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87928",
+    "code": "8543709085",
+    "description": "Voltage controlled oscillator (VCO), other than temperature compensated oscillators, consisting of active and passive elements mounted on a printed circuit, contained in a housing",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108919",
+    "code": "8543709087",
+    "description": "An electronic sound generator, creating an analog signal for a device producing the sound of an engine, containing:<br>- a printed circuit board with a microprocessor and a sound amplifier,<br>- a connector,<br>- a plastic housing,<br>- with or without a metal holder,<br>for use in the manufacture of goods of Chapter\u00a087",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87911",
+    "code": "8543709099",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "52835",
+    "code": "8543900000",
+    "description": "Parts",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "110298",
+    "code": "8543901000",
+    "description": "Assemblies of stacked galvanic cells for water electrolysis machines for the production of hydrogen or oxygen",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "110299",
+    "code": "8543909000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  }
+]

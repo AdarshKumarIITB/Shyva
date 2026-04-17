@@ -1,0 +1,149 @@
+[
+  {
+    "id": "47022",
+    "code": "7608100000",
+    "description": "Of aluminium, not alloyed",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "105339",
+    "code": "7608100011",
+    "description": "With attached fittings, suitable for conducting gases or liquids, for use in civil aircraft",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105309",
+    "code": "7608100011",
+    "description": "Unassembled, not welded, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "105331",
+    "code": "7608100019",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "84115",
+    "code": "7608100020",
+    "description": "Tubes and pipes, ready for fitting, usable as hydraulic conduits or as conduits for fuel-oil or lubricants for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "105332",
+    "code": "7608100080",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105308",
+    "code": "7608100080",
+    "description": "Unassembled, not welded, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "105334",
+    "code": "7608100089",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "47029",
+    "code": "7608200000",
+    "description": "Of aluminium alloys",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "84140",
+    "code": "7608202000",
+    "description": "Welded",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "84144",
+    "code": "7608202010",
+    "description": "With attached fittings, suitable for conducting gases or liquids, for use in civil aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "84147",
+    "code": "7608202020",
+    "description": "Tubes and pipes, ready for fitting, usable as hydraulic conduits or as conduits for fuel-oil or lubricants for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "84149",
+    "code": "7608202090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "84141",
+    "code": "7608208100",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "84142",
+    "code": "7608208100",
+    "description": "Not further worked than extruded",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "84145",
+    "code": "7608208110",
+    "description": "With attached fittings, suitable for conducting gases or liquids, for use in civil aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "84150",
+    "code": "7608208190",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "84143",
+    "code": "7608208900",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "84146",
+    "code": "7608208910",
+    "description": "With attached fittings, suitable for conducting gases or liquids, for use in civil aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "84148",
+    "code": "7608208920",
+    "description": "Tubes and pipes, ready for fitting, usable as hydraulic conduits or as conduits for fuel-oil or lubricants for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "84151",
+    "code": "7608208990",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  }
+]

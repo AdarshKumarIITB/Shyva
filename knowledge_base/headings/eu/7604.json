@@ -1,0 +1,156 @@
+[
+  {
+    "id": "46940",
+    "code": "7604100000",
+    "description": "Of aluminium, not alloyed",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "46941",
+    "code": "7604101000",
+    "description": "Bars and rods",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105299",
+    "code": "7604101011",
+    "description": "Unassembled, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "105325",
+    "code": "7604101090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "46942",
+    "code": "7604109000",
+    "description": "Profiles",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105320",
+    "code": "7604109011",
+    "description": "Bearing a specific manufacture number, for use in certain types of aircraft",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "105300",
+    "code": "7604109011",
+    "description": "Unassembled, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105326",
+    "code": "7604109019",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105321",
+    "code": "7604109025",
+    "description": "Conical shapes for reinforcing lateral rudders, for use in certain types of aircraft",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "105302",
+    "code": "7604109025",
+    "description": "Unassembled, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105327",
+    "code": "7604109029",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105329",
+    "code": "7604109080",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "105305",
+    "code": "7604109080",
+    "description": "Unassembled, containing not more than 99.3% of aluminium",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105330",
+    "code": "7604109089",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "46946",
+    "code": "7604210000",
+    "description": "Of aluminium alloys",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "46947",
+    "code": "7604210000",
+    "description": "Hollow profiles",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "46948",
+    "code": "7604290000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "46949",
+    "code": "7604291000",
+    "description": "Bars and rods",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "46950",
+    "code": "7604299000",
+    "description": "Profiles",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "46951",
+    "code": "7604299010",
+    "description": "Bearing a specific manufacture number, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "46952",
+    "code": "7604299020",
+    "description": "Conical shapes for reinforcing lateral rudders, for use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "46953",
+    "code": "7604299090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  }
+]

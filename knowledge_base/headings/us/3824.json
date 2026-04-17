@@ -1,0 +1,1222 @@
+[
+  {
+    "htsno": "3824",
+    "indent": "0",
+    "description": "Prepared binders for foundry molds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.10.00.00",
+    "indent": "1",
+    "description": "Prepared binders for foundry molds or cores",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.30.00.00",
+    "indent": "1",
+    "description": "Nonagglomerated metal carbides mixed together or with metallic binders",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.40",
+    "indent": "1",
+    "description": "Prepared additives for cements, mortars or concretes:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.40.10.00",
+    "indent": "2",
+    "description": "Containing 5 percent or more by weight of one or more aromatic or modified aromatic substances",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.40.20.00",
+    "indent": "2",
+    "description": "Consisting wholly of inorganic substances",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.40.50.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.50.00",
+    "indent": "1",
+    "description": "Nonrefractory mortars and concretes",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.50.00.10",
+    "indent": "2",
+    "description": "Wet",
+    "superior": null,
+    "units": [
+      "t"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.50.00.50",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "t"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.60.00.00",
+    "indent": "1",
+    "description": "Sorbitol other than that of subheading 2905.44",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.81.00.00",
+    "indent": "2",
+    "description": "Containing oxirane (ethylene oxide)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.82",
+    "indent": "2",
+    "description": "Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls ({PCTs) or polybrominated biphenyls (PBBs):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.82.10.00",
+    "indent": "3",
+    "description": "Chlorinated but not otherwise halogenated",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.82.90.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.83.00.00",
+    "indent": "2",
+    "description": "Containing tris(2,3-dibromopropyl) phospate",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.84.00.00",
+    "indent": "2",
+    "description": "Containing aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), chlordecone (ISO), DDT (ISO) (clofenatone (INN)), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO INN), endosulfan (ISO), endrin (ISO), heptachlor (ISO) or mirex (ISO)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.85.00.00",
+    "indent": "2",
+    "description": "Containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO,INN)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.86.00.00",
+    "indent": "2",
+    "description": "Containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.87.00.00",
+    "indent": "2",
+    "description": "Containing perfluorooctane sulfonic acid, its salts, perfluorooctane sulfonamides, or perfluorooctane sulfonyl fluoride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.88.00.00",
+    "indent": "2",
+    "description": "Containing tetra-, penta-, hexa-, hepta-, or octabromodiphenyl ethers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.89.00.00",
+    "indent": "2",
+    "description": "Containing short-chain chlorinated paraffins",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.91.00.00",
+    "indent": "2",
+    "description": "Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-oxido3,2-dioxaphosphinan-5-yl)methyl methylphosphonate and bis(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methylphosphonate",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.92.00.00",
+    "indent": "2",
+    "description": "Polyglycol esters of methylphosphonic acid.",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,JP,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.11.00",
+    "indent": "4",
+    "description": "In the form of ingots",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.19.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.21.00",
+    "indent": "5",
+    "description": "Consisting wholly of substances found naturally in coal tar, whether obtained from coal tar or other source",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.25.00",
+    "indent": "5",
+    "description": "Aqueous mixtures of triphenyl sulfonium chloride, diphenyl (4-phenylthio)phenyl sulfonium chloride and (thiodi-4,1- phenylene)bis(diphenyl sulfonium) dichloride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.26.00",
+    "indent": "5",
+    "description": "Benzene, 2,4-diisocyanate-1,3,5-tris(1- methylethyl) homopolymer; 5-Fluoro-2-methyl-1-[[4-(methylsulfinyl)- phenyl]methylene]-1H-indene;Mixtures of dimethyl phthalate, t-butanol, hydrogen peroxide, and sodium salicylate; andMixtures containing derivatives of N-[4-(2- hydroxy-3-phenoxypropoxy)phenyl]- acetamide",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.29.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "3.7\u00a2/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.31.00",
+    "indent": "5",
+    "description": "Of bismuth",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.32.00",
+    "indent": "5",
+    "description": "Of hydrosulfite compounds, of sulfoxylate compounds, or of both",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.33.00",
+    "indent": "5",
+    "description": "Of mercury",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "26.3%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.34.00",
+    "indent": "5",
+    "description": "Of molybdenum",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "18%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.35.00",
+    "indent": "5",
+    "description": "Of tungsten",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL, JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "45.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.36.00",
+    "indent": "5",
+    "description": "Of vanadium",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.39",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.39.10",
+    "indent": "6",
+    "description": "Of lithium nickel cobalt manganese oxides",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.39.90",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.41",
+    "indent": "4",
+    "description": "Fatty substances of animal or vegetable origin and mixtures thereof",
+    "superior": null,
+    "units": [],
+    "general": "4.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "16.5\u00a2/kg + 30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.41.40",
+    "indent": "5",
+    "description": "Mixtures of fatty acid esters",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.41.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.49.00",
+    "indent": "5",
+    "description": "Mixtures that are in whole or in part of hydrocarbons derived in whole or in part from petroleum, shale oil or natural gas",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.50.00",
+    "indent": "6",
+    "description": "Chlorinated but not otherwise halogenated",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.55.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL, JO,K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.70.00",
+    "indent": "6",
+    "description": "Mixtures of dibromo neopentyl glycol; Polydibromophenylene oxide; Tetrabromobisphenol-A-carbonate oligomers; and Electroplating chemical and electroless plating solutions and other materials for printed circuit boards, plastics and metal finishings",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.75",
+    "indent": "6",
+    "description": "Naphthenic acids, their water-insoluble salts and their esters",
+    "superior": null,
+    "units": [],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.75.10",
+    "indent": "7",
+    "description": "Naphthenic acids",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.75.50",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,JP,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.10",
+    "indent": "8",
+    "description": "Containing C11 or lower alcohols only",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.20",
+    "indent": "8",
+    "description": "Containing C12 or higher alcohols only",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.30",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.61",
+    "indent": "7",
+    "description": "Mixtures consisting mainly of chemicals containing a phosphorus atom to which is bonded one methyl, ethyl, n-propyl or isopropyl group, but no other carbon atoms",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.86",
+    "indent": "7",
+    "description": "Mixtures of a kind containing magnesium used as a desulfurization reagent",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3824.99.93.97",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "gri_rules": {
+    "gri_1": "Classification is determined by the terms of the headings and any relative section or chapter notes. Classification by other GRI rules only applies when GRI 1 does not resolve the issue.",
+    "gri_2a": "Incomplete or unfinished articles that have the essential character of the complete article are classified as the complete article. Unassembled or disassembled articles are classified with the assembled article.",
+    "gri_2b": "Mixtures, composite goods, and goods consisting of more than one material/substance are classified per GRI 3.",
+    "gri_3a": "Most specific description prevails over a more general description.",
+    "gri_3b": "Mixtures/composite goods/sets: classified by the material or component which gives them their essential character.",
+    "gri_3c": "When GRI 3a and 3b do not resolve, classify under the heading which occurs last in numerical order.",
+    "gri_6": "Classification within a heading is determined by the terms of the subheadings and any related subheading notes, applied in the same way as the heading-level rules."
+  },
+
+  "chapter_85_notes": {
+    "note_12a_printed_circuits": "Note 12(a) to Chapter 85: 'Printed circuits' within the meaning of heading 8534 are circuits obtained by forming on an insulating base, by any printing process (for example, embossing, plating-up, etching) or by 'film circuit' technology, conductor elements, contacts, or other printed components (for example, inductances, resistors, capacitors) alone or interconnected according to a pre-established pattern, other than elements which can produce, rectify, modulate or amplify an electrical signal (for example, semiconductor elements). The term 'printed circuits' does not cover circuits combined with elements other than those obtained during the printing process, nor does it cover individual, discrete resistors, capacitors or inductances. Printed circuits may or may not have passive connecting elements.",
+
+    "note_12b_pcba": "Note 12(b) to Chapter 85 defines 'multi-component integrated circuits (MCOs)' as combinations of components. Chapter 84 Additional Note 2 defines a 'printed circuit assembly' as goods consisting of one or more printed circuits of heading 8534 with one or more active elements assembled thereon, with or without passive elements. A board with only passive elements is NOT a printed circuit assembly.",
+
+    "ic_definitions": "Chapter 85 defines electronic integrated circuits as: (a) monolithic integrated circuits - circuit elements formed in the mass and on the surface of a single semiconductor material; (b) hybrid integrated circuits - thin-film or thick-film circuits combined with monolithic circuits on a single insulating substrate; (c) multichip integrated circuits - two or more interconnected monolithic ICs on a single insulating substrate; (d) multi-component ICs (MCOs) - combinations of items described above."
+  },
+
+  "chapter_84_notes": {
+    "additional_us_note_2": "Additional U.S. Note 2 to Chapter 84: A 'printed circuit assembly' is a good consisting of one or more printed circuits of heading 8534 with one or more active elements assembled thereon, with or without passive elements. This note is critical for distinguishing a bare PCB (8534) from a PCBA (various headings in 84/85 depending on function and use).",
+
+    "parts_classification": "Additional U.S. Rules of Interpretation: (i) A provision for 'parts' does not prevail over a specific provision for such a part. A board with an independent electrical function may classify under its own function-based heading rather than as a 'part of' a larger machine. (ii) A provision for 'parts' applies to goods solely or principally used as a part of the relevant article."
+  },
+
+  "chapter_29_notes": {
+    "note_1_chemically_defined": "Note 1 to Chapter 29: Except where the context otherwise requires, the headings of this chapter apply only to: (a) separate chemically defined organic compounds, whether or not containing impurities; (b) mixtures of two or more isomers of the same organic compound; (c) certain specified dissolved forms. This is the THRESHOLD legal distinction: if the product is a separate chemically defined compound -> Ch.29; if it is a mixture/preparation -> Ch.38 (heading 3824).",
+
+    "note_purity": "A product with impurities does not lose its status as a 'separate chemically defined compound' unless the impurities render the product unsuitable for its primary use. However, mixtures of different chemical species are NOT separate chemically defined compounds."
+  },
+
+  "chapter_74_vs_85": {
+    "insulation_boundary": "The critical distinction between Chapter 74 (copper) and Chapter 85 (electrical equipment) for wire/cable is INSULATION. Uninsulated copper wire -> Chapter 74 (heading 7408 for single wire, 7413 for stranded/cable). Electrically insulated wire/cable -> Chapter 85 (heading 8544). 'Insulated' includes enameled or anodized wire.",
+
+    "heading_8544_structure": "Heading 8544 is structured by: (1) winding wire (8544.11-19); (2) coaxial cable (8544.20); (3) vehicle/aircraft/ship wiring sets (8544.30); (4) other conductors <=1000V with connectors (8544.42), without connectors (8544.49); (5) other conductors >1000V (8544.60); (6) optical fiber cables (8544.70)."
+  },
+
+  "chapter_76_notes": {
+    "profiles_vs_castings": "Chapter 76 distinguishes: profiles/extrusions (heading 7604), tubes/pipes (7608), structures (7610), and other articles (7616). Profiles are obtained by extrusion or drawing and have a uniform cross-section. Die castings are NOT profiles — they classify under 7616 (other articles of aluminum) unless they are more specifically provided for elsewhere.",
+
+    "part_of_logic": "Aluminum housings and heatsinks sold as 'parts' of machines: first check whether there is a more specific provision in Chapter 76 (e.g., as a profile, tube, or article of aluminum). Only classify as a 'part of' the machine under the machine's heading if no more specific provision exists AND the article is solely or principally used with that machine."
+  },
+
+  "metadata": {
+    "source": "WCO HS Explanatory Notes, USITC HTS General Notes, EU Combined Nomenclature Explanatory Notes",
+    "last_verified": "2026-04-14"
+  }
+}

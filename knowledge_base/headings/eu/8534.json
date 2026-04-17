@@ -1,0 +1,30 @@
+[
+  {
+    "id": "50658",
+    "code": "8534001100",
+    "description": "Consisting only of conductor elements and contacts",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "50659",
+    "code": "8534001100",
+    "description": "Multilayer circuits",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "50666",
+    "code": "8534001900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "50675",
+    "code": "8534009000",
+    "description": "With other passive elements",
+    "leaf": true,
+    "indent": 1
+  }
+]

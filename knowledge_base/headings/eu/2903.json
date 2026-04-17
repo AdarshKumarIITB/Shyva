@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "36226",
+    "code": "2903110000",
+    "description": "Saturated chlorinated derivatives of acyclic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "36227",
+    "code": "2903110000",
+    "description": "Chloromethane (methyl chloride) and chloroethane (ethyl chloride)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36228",
+    "code": "2903120000",
+    "description": "Dichloromethane (methylene chloride)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36229",
+    "code": "2903130000",
+    "description": "Chloroform (trichloromethane)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36230",
+    "code": "2903140000",
+    "description": "Carbon tetrachloride",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36231",
+    "code": "2903150000",
+    "description": "Ethylene dichloride (ISO) (1,2-dichloroethane)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36233",
+    "code": "2903190000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "99485",
+    "code": "2903190010",
+    "description": "1,1,1-Trichloroethane (methylchloroform)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108011",
+    "code": "2903190020",
+    "description": "1,3-Dichloropropane (CAS RN 142-28-9) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "99486",
+    "code": "2903190090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "36242",
+    "code": "2903210000",
+    "description": "Unsaturated chlorinated derivatives of acyclic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "36243",
+    "code": "2903210000",
+    "description": "Vinyl chloride (chloroethylene)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36244",
+    "code": "2903220000",
+    "description": "Trichloroethylene",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "106171",
+    "code": "2903220010",
+    "description": "With a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106170",
+    "code": "2903220090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "36245",
+    "code": "2903230000",
+    "description": "Tetrachloroethylene (perchloroethylene)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "36246",
+    "code": "2903290000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109124",
+    "code": "2903290010",
+    "description": "Hexachlorobutadiene  (CAS 87-68-3)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "110163",
+    "code": "2903290020",
+    "description": "trans-1,2-Dichloroethylene (CAS RN 156-60-5) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109123",
+    "code": "2903290090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107016",
+    "code": "2903410000",
+    "description": "Saturated fluorinated derivatives of acyclic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "106993",
+    "code": "2903410000",
+    "description": "Trifluoromethane (HFC-23)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "106994",
+    "code": "2903420000",
+    "description": "Difluoromethane (HFC-32)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "106995",
+    "code": "2903430000",
+    "description": "Fluoromethane (HFC-41), 1,2-difluoroethane (HFC-152) and 1,1-difluoroethane (HFC-152a)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107066",
+    "code": "2903430010",
+    "description": "Fluoromethane (methyl fluoride) (HFC-41)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107070",
+    "code": "2903430020",
+    "description": "1,2-Difluoroethane (HFC-152)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107076",
+    "code": "2903430030",
+    "description": "1,1-Difluoroethane (HFC-152a)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106996",
+    "code": "2903440000",
+    "description": "Pentafluoroethane (HFC-125), 1,1,1-trifluoroethane (HFC-143a) and 1,1,2-trifluoroethane (HFC-143)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107034",
+    "code": "2903440010",
+    "description": "Pentafluoroethane (HFC-125) (CAS\u00a0RN\u00a0354-33-6)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107080",
+    "code": "2903440020",
+    "description": "1,1,1-Trifluoroethane (HFC-143a)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107072",
+    "code": "2903440030",
+    "description": "1,1,2-Trifluoroethane (HFC-143)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106997",
+    "code": "2903450000",
+    "description": "1,1,1,2-Tetrafluoroethane (HFC-134a) and 1,1,2,2-tetrafluoroethane (HFC-134)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107082",
+    "code": "2903450010",
+    "description": "1,1,1,2-Tetrafluoroethane (HFC-134a)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107073",
+    "code": "2903450020",
+    "description": "1,1,2,2-Tetrafluoroethane (HFC-134)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106998",
+    "code": "2903460000",
+    "description": "1,1,1,2,3,3,3-Heptafluoropropane (HFC-227ea), 1,1,1,2,2,3-hexafluoropropane (HFC-236cb), 1,1,1,2,3,3-hexafluoropropane (HFC-236ea) and 1,1,1,3,3,3-hexafluoropropane (HFC-236fa)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107038",
+    "code": "2903460010",
+    "description": "1,1,1,2,3,3,3-Heptafluoropropane (HFC-227ea)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107039",
+    "code": "2903460020",
+    "description": "1,1,1,2,2,3-Hexafluoropropane (HFC-236cb)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107040",
+    "code": "2903460030",
+    "description": "1,1,1,2,3,3-Hexafluoropropane (HFC-236ea)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107041",
+    "code": "2903460040",
+    "description": "1,1,1,3,3,3-Hexafluoropropane (HFC-236fa)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "106999",
+    "code": "2903470000",
+    "description": "1,1,1,3,3-Pentafluoropropane (HFC-245fa) and 1,1,2,2,3-pentafluoropropane (HFC-245ca)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107036",
+    "code": "2903470010",
+    "description": "1,1,2,2,3-Pentafluoropropane (HFC-245ca)  (CAS RN 460-73-1)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107083",
+    "code": "2903470020",
+    "description": "1,1,1,3,3-Pentafluoropropane (HFC-245fa) (CAS RN 460-73-1)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107000",
+    "code": "2903480000",
+    "description": "1,1,1,3,3-Pentafluorobutane (HFC-365mfc) and 1,1,1,2,2,3,4,5,5,5-decafluoropentane (HFC-43-10mee)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107075",
+    "code": "2903480010",
+    "description": "1,1,1,3,3-Pentafluorobutane (HFC-365mfc)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107074",
+    "code": "2903480020",
+    "description": "1,1,1,2,2,3,4,5,5,5-Decafluoropentane (HFC-43-10mee)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107001",
+    "code": "2903490000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107002",
+    "code": "2903491000",
+    "description": "Other pentafluoropropanes, hexafluoropropanes and heptafluoropropanes",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107003",
+    "code": "2903493000",
+    "description": "Perfluorinated derivatives",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "107042",
+    "code": "2903493010",
+    "description": "Carbon tetrafluoride (tetrafluoromethane) (CAS RN 75-73-0)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107043",
+    "code": "2903493020",
+    "description": "Perfluoroethane (CAS RN 76-16-4)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107044",
+    "code": "2903493090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107004",
+    "code": "2903499000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "107084",
+    "code": "2903499010",
+    "description": "Fluoroethane (ethyl fluoride) (HFC-161)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107085",
+    "code": "2903499090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107015",
+    "code": "2903510000",
+    "description": "Unsaturated fluorinated derivatives of acyclic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "107008",
+    "code": "2903510000",
+    "description": "2,3,3,3-Tetrafluoropropene (HFO-1234yf), 1,3,3,3-tetrafluoropropene (HFO-1234ze) and (Z)-1,1,1,4,4,4-hexafluoro-2-butene (HFO-1336mzz)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107046",
+    "code": "2903510010",
+    "description": "2,3,3,3-Tetrafluoroprop-1-ene (2,3,3,3-tetrafluoropropene) (CAS RN 754-12-1)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107048",
+    "code": "2903510020",
+    "description": "Trans-1,3,3,3-tetrafluoroprop-1-ene (Trans-1,3,3,3-tetrafluoropropene)\u00a0(CAS\u00a0RN\u00a029118-24-9)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107050",
+    "code": "2903510090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107006",
+    "code": "2903590000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107053",
+    "code": "2903590030",
+    "description": "Hexafluoropropene (CAS RN 116-15-4)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107054",
+    "code": "2903590040",
+    "description": "1,1,2,3,4,4-Hexafluorobuta-1,3-diene (CAS\u00a0RN\u00a0685-63-2)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107051",
+    "code": "2903590090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "107014",
+    "code": "2903610000",
+    "description": "Brominated or iodinated derivatives of acyclic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "107007",
+    "code": "2903610000",
+    "description": "Methyl bromide (bromomethane)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107009",
+    "code": "2903620000",
+    "description": "Ethylene dibromide (ISO) (1,2-dibromoethane)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107010",
+    "code": "2903690000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "107019",
+    "code": "2903691100",
+    "description": "Bromides",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "107011",
+    "code": "2903691100",
+    "description": "Dibromomethane",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "107012",
+    "code": "2903691900",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "108717",
+    "code": "2903691925",
+    "description": "(E)-1,4-Dibrombut-2-ene (CAS\u00a0RN\u00a0821-06-7) with a purity by weight of 98\u00a0% or more",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "107027",
+    "code": "2903691930",
+    "description": "1-Bomopropane (CAS RN 106-94-5)",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108718",
+    "code": "2903691935",
+    "description": "2,2-Dibromopropane (CAS\u00a0RN\u00a0594-16-1) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "107024",
+    "code": "2903691940",
+    "description": "3-(Bromomethyl)pentane (CAS\u00a0RN\u00a03814-34-4) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108448",
+    "code": "2903691950",
+    "description": "Vinyl bromide (CAS RN 593-60-2) with a purity by weight of 98\u00a0% or more, or as a solution in tetrahydrofuran (CAS RN 109-99-9) containing by weight 23\u00a0% or more, but not more than 26\u00a0% vinylbromide",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "107259",
+    "code": "2903691960",
+    "description": "1-Bromo-2-methylpropane\u00a0(CAS RN 78-77-3) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "107030",
+    "code": "2903691990",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "107013",
+    "code": "2903698000",
+    "description": "Iodides",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95360",
+    "code": "2903710000",
+    "description": "Halogenated derivatives of acyclic hydrocarbons containing two or more different halogens",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "95361",
+    "code": "2903710000",
+    "description": "Chlorodifluoromethane (HCFC-22)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95362",
+    "code": "2903720000",
+    "description": "Dichlorotrifluoroethanes (HCFC-123)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "105396",
+    "code": "2903720010",
+    "description": "Dichloro-1,1,1-trifluoroethane (CAS RN 306-83-2) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "105397",
+    "code": "2903720090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95363",
+    "code": "2903730000",
+    "description": "Dichlorofluoroethanes (HCFC-141, 141b)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95364",
+    "code": "2903740000",
+    "description": "Chlorodifluoroethanes (HCFC-142, 142b)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95365",
+    "code": "2903750000",
+    "description": "Dichloropentafluoropropanes (HCFC-225, 225ca, 225cb)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95355",
+    "code": "2903760000",
+    "description": "Bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane (Halon-1301) and dibromotetrafluoroethanes (Halon-2402)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "95356",
+    "code": "2903761000",
+    "description": "Bromochlorodifluoromethane (Halon-1211)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95357",
+    "code": "2903762000",
+    "description": "Bromotrifluoromethane (Halon-1301)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95358",
+    "code": "2903769000",
+    "description": "Dibromotetrafluoroethanes (Halon-2402)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95317",
+    "code": "2903770000",
+    "description": "Other, perhalogenated only with fluorine and chlorine",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "99538",
+    "code": "2903776000",
+    "description": "Trichlorofluoromethane, dichlorodifluoromethane, trichlorotrifluoroethanes, dichlorotetrafluoroethanes and chloropentafluoroethane",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95327",
+    "code": "2903779000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "95343",
+    "code": "2903779010",
+    "description": "Chlorotrifluoroethylene (CAS RN 79-38-9)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95344",
+    "code": "2903779015",
+    "description": "Pentachlorofluoroethane",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95345",
+    "code": "2903779020",
+    "description": "Tetrachlorodifluoroethanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95346",
+    "code": "2903779025",
+    "description": "Heptachlorofluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95347",
+    "code": "2903779030",
+    "description": "Hexachlorodifluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95348",
+    "code": "2903779035",
+    "description": "Pentachlorotrifluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95349",
+    "code": "2903779040",
+    "description": "Tetrachlorotetrafluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95351",
+    "code": "2903779045",
+    "description": "Trichloropentafluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95352",
+    "code": "2903779050",
+    "description": "Dichlorohexafluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95353",
+    "code": "2903779055",
+    "description": "Chloroheptafluoropropanes",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "96517",
+    "code": "2903779060",
+    "description": "Chlorotrifluoromethane",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95354",
+    "code": "2903779090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95359",
+    "code": "2903780000",
+    "description": "Other perhalogenated derivatives",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95372",
+    "code": "2903790000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "99488",
+    "code": "2903793000",
+    "description": "Halogenated only with bromine and chlorine, fluorine and chlorine or with fluorine and bromine",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "99489",
+    "code": "2903793010",
+    "description": "Trans-1-chloro-3,3,3-trifluoropropene (CAS RN 102687-65-0)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "99578",
+    "code": "2903793020",
+    "description": "Bromochloromethane (CAS RN 74-97-5)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "99490",
+    "code": "2903793090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "99487",
+    "code": "2903798000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "95384",
+    "code": "2903810000",
+    "description": "Halogenated derivatives of cyclanic, cyclenic or cycloterpenic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "95385",
+    "code": "2903810000",
+    "description": "1,2,3,4,5,6-Hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95386",
+    "code": "2903820000",
+    "description": "Aldrin (ISO), chlordane (ISO) and heptachlor (ISO)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101247",
+    "code": "2903830000",
+    "description": "Mirex (ISO)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95387",
+    "code": "2903890000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "95388",
+    "code": "2903891000",
+    "description": "1,2-Dibromo-4-(1,2-dibromoethyl)cyclohexane; tetrabromocyclooctanes",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109557",
+    "code": "2903892000",
+    "description": "Hexabromocyclododecanes (HBCDs)",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "109558",
+    "code": "2903892020",
+    "description": "1,2,5,6,9,10-Hexabromocyclodecane (CAS RN 3194-55-6)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109559",
+    "code": "2903892025",
+    "description": "rel-(1R,2R,5S,6R,9R,10S)-1,2,5,6,9,10-hexabromocyclododecane (CAS RN 134237-50-6)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109560",
+    "code": "2903892030",
+    "description": "rel-(1R,2R,5R,6S,9R,10S)-1,2,5,6,9,10-hexabromocyclododecane (CAS RN 134237-51-7)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109561",
+    "code": "2903892035",
+    "description": "rel-(1R,2R,5R,6S,9S,10R)-1,2,5,6,9,10-hexabromocyclododecane (CAS RN 134237-52-8)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109562",
+    "code": "2903892055",
+    "description": "Hexabromocyclodecane (CAS RN 25637-99-4)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109556",
+    "code": "2903897000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "109563",
+    "code": "2903897050",
+    "description": "Chlorocyclopentane (CAS RN 930-28-9)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109564",
+    "code": "2903897060",
+    "description": "Octafluorocyclobutane (CAS\u00a0RN\u00a0115-25-3)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109565",
+    "code": "2903897090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "95399",
+    "code": "2903910000",
+    "description": "Halogenated derivatives of aromatic hydrocarbons",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "95400",
+    "code": "2903910000",
+    "description": "Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95401",
+    "code": "2903920000",
+    "description": "Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109092",
+    "code": "2903920010",
+    "description": "DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane) (CAS 50-29-3)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109091",
+    "code": "2903920090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101254",
+    "code": "2903930000",
+    "description": "Pentachlorobenzene (ISO)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101255",
+    "code": "2903940000",
+    "description": "Hexabromobiphenyls",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "95402",
+    "code": "2903990000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "95403",
+    "code": "2903991000",
+    "description": "2,3,4,5,6-Pentabromoethylbenzene",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101256",
+    "code": "2903998000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "109820",
+    "code": "2903998010",
+    "description": "4-Bromo-2-fluorobiphenyl (CAS\u00a0RN\u00a041604-19-7) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "108609",
+    "code": "2903998018",
+    "description": "1-Fluoronaphthalene (CAS\u00a0RN\u00a0321-38-0) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101264",
+    "code": "2903998020",
+    "description": "1,2-Bis(pentabromophenyl)ethane (CAS RN 84852-53-9)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "108719",
+    "code": "2903998023",
+    "description": "3,5-Bis(trifluoromethyl) benzylbromide (CAS\u00a0RN\u00a032247-96-4) with a\u00a0purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105560",
+    "code": "2903998025",
+    "description": "2,2'-Dibromobiphenyl (CAS RN 13029-09-9) with a purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101263",
+    "code": "2903998030",
+    "description": "1,3-Dichlorobenzene (CAS RN 541-73-1)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105561",
+    "code": "2903998035",
+    "description": "2-Bromo-9,9'-spirobi[9H-fluoren] (CAS RN 171408-76-7) with a purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101262",
+    "code": "2903998040",
+    "description": "2,6-Dichlorotoluene (CAS RN 118-69-4), of a purity by weight of 99\u00a0% or more and containing:<br>-\u00a00,001\u00a0mg/kg or less of tetrachlorodibenzodioxines,<br>-\u00a00,001\u00a0mg/kg or less of tetrachlorodibenzofurans,<br>-\u00a00,2\u00a0mg/kg or less of tetrachlorobiphenyls<br>",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106058",
+    "code": "2903998045",
+    "description": "1-Bromo-4-(trans-4-propylcyclohexyl)benzene\u00a0(CAS RN 86579-53-5) with a purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101265",
+    "code": "2903998050",
+    "description": "Fluorobenzene (CAS RN\u00a0462-06-6)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106059",
+    "code": "2903998055",
+    "description": "1-Bromo-4-(trans-4-ethylcyclohexyl)benzene\u00a0(CAS RN 91538-82-8) with a purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106342",
+    "code": "2903998065",
+    "description": "2,6-Difluorobenzyl bromide (CAS RN 85118-00-9) with a purity by weight of 97\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "106343",
+    "code": "2903998070",
+    "description": "1-[Chloro(phenyl)methyl]-2-methylbenzene (CAS RN 41870-52-4) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "110196",
+    "code": "2903998083",
+    "description": "1-Bromo-3,4,5-trifluorobenzene (CAS RN 138526-69-9) with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "109116",
+    "code": "2903998088",
+    "description": "biphenyl, chlorinated (CAS 1336-36-3)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101258",
+    "code": "2903998090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  }
+]

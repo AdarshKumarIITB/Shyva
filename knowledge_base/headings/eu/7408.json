@@ -1,0 +1,65 @@
+[
+  {
+    "id": "46786",
+    "code": "7408110000",
+    "description": "Of refined copper",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "46787",
+    "code": "7408110000",
+    "description": "Of which the maximum cross-sectional dimension exceeds 6\u00a0mm",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "46788",
+    "code": "7408190000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "46789",
+    "code": "7408191000",
+    "description": "Of which the maximum cross-sectional dimension exceeds 0,5\u00a0mm",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "46790",
+    "code": "7408199000",
+    "description": "Of which the maximum cross-sectional dimension does not exceed 0,5\u00a0mm",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "46791",
+    "code": "7408210000",
+    "description": "Of copper alloys",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "46792",
+    "code": "7408210000",
+    "description": "Of copper-zinc base alloys (brass)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "46793",
+    "code": "7408220000",
+    "description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "46796",
+    "code": "7408290000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  }
+]

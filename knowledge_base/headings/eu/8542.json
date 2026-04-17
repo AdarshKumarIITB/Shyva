@@ -1,0 +1,219 @@
+[
+  {
+    "id": "87836",
+    "code": "8542310000",
+    "description": "Electronic integrated circuits",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "87837",
+    "code": "8542310000",
+    "description": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "102593",
+    "code": "8542311100",
+    "description": "Goods specified in note\u00a012(b)(3\u00a0and 4) to this chapter",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "102591",
+    "code": "8542311100",
+    "description": "Multi-component integrated circuits (MCOs)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "102595",
+    "code": "8542311900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87839",
+    "code": "8542319000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87840",
+    "code": "8542320000",
+    "description": "Memories",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "102594",
+    "code": "8542321100",
+    "description": "Goods specified in note 12(b)(3 and 4) to this chapter",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "102592",
+    "code": "8542321100",
+    "description": "Multi-component integrated circuits (MCOs)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "102596",
+    "code": "8542321900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87842",
+    "code": "8542323100",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "87843",
+    "code": "8542323100",
+    "description": "Dynamic random-access memories (D-RAMs)",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "87844",
+    "code": "8542323100",
+    "description": "With a storage capacity not exceeding 512\u00a0Mbits",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "87845",
+    "code": "8542323900",
+    "description": "With a storage capacity exceeding 512\u00a0Mbits",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "87846",
+    "code": "8542324500",
+    "description": "Static random-access memories (S-RAMs), including cache random-access memories (cache-RAMs)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87847",
+    "code": "8542325500",
+    "description": "UV erasable, programmable, read only memories (EPROMs)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87848",
+    "code": "8542326100",
+    "description": "Electrically erasable, programmable, read only memories (E<sup>2</sup>PROMs), including flash E<sup>2</sup>PROMs",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "87849",
+    "code": "8542326100",
+    "description": "Flash E<sup>2</sup>PROMs",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "87850",
+    "code": "8542326100",
+    "description": "With a storage capacity not exceeding 512\u00a0Mbits",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "87851",
+    "code": "8542326900",
+    "description": "With a storage capacity exceeding 512\u00a0Mbits",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "87852",
+    "code": "8542327500",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "87853",
+    "code": "8542329000",
+    "description": "Other memories",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87854",
+    "code": "8542330000",
+    "description": "Amplifiers",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "102597",
+    "code": "8542331000",
+    "description": "Multi-component integrated circuits (MCOs)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "102598",
+    "code": "8542339000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "87855",
+    "code": "8542390000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "102599",
+    "code": "8542391100",
+    "description": "Goods specified in note\u00a012(b)(3\u00a0and 4) to this chapter",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "102600",
+    "code": "8542391100",
+    "description": "Multi-component integrated circuits (MCOs)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "102601",
+    "code": "8542391900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "87857",
+    "code": "8542399000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "52802",
+    "code": "8542900000",
+    "description": "Parts",
+    "leaf": true,
+    "indent": 1
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "us_programs": {
+    "gsp": {
+      "status": "EXPIRED",
+      "expiry_date": "2020-12-31",
+      "note": "US GSP expired December 31, 2020. Not reauthorized as of April 2026. India was separately terminated from GSP on June 5, 2019.",
+      "eligible_origins": [],
+      "relevance": "NONE for current imports. Special column markers (A, A*, A+) in HTSUS are dormant."
+    },
+    "fta_partners": {
+      "note": "The US has no FTA with India, China, Vietnam, or the EU. No preferential tariff rates apply to any of our 8 trade lanes via FTA.",
+      "relevant_ftas": []
+    }
+  },
+
+  "eu_programs": {
+    "gsp": {
+      "description": "EU Generalized Scheme of Preferences",
+      "regulation": "EU Regulation 978/2012, updated by 2023/2663",
+      "india": {
+        "status": "GRADUATED",
+        "note": "India graduated from EU GSP for 2024-2026 cycle on most industrial products including: base metals (Section XV), machinery and electrical equipment (Section XVI), and chemicals (Section VI). Product-specific graduation means no GSP preference applies to our 5 product families.",
+        "applicable_sections_graduated": ["Section VI (chemicals)", "Section XV (base metals)", "Section XVI (machinery/electrical)"],
+        "preferential_rate": "N/A - MFN applies"
+      },
+      "china": {
+        "status": "NOT_ELIGIBLE",
+        "note": "China is not a GSP beneficiary in the EU scheme. MFN rates apply.",
+        "preferential_rate": "N/A"
+      },
+      "vietnam": {
+        "status": "EVFTA_REPLACES",
+        "note": "Vietnam has the EU-Vietnam FTA (EVFTA) which provides better rates than GSP. GSP preferences are superseded by EVFTA."
+      }
+    },
+    "evfta": {
+      "description": "EU-Vietnam Free Trade Agreement",
+      "effective_date": "2020-08-01",
+      "applies_to_origin": "VN",
+      "applies_to_destination": "EU",
+      "product_coverage": {
+        "electronics_8534_8542": {
+          "rate": "0%",
+          "note": "Already 0% MFN under ITA. EVFTA does not change the rate."
+        },
+        "chemicals_2903": {
+          "rate": "0%",
+          "staging": "Immediate elimination for most chemical products",
+          "note": "Most Chapter 29 products had tariffs eliminated at entry into force or within 3-7 years. By 2026, most are at 0%."
+        },
+        "copper_wire_7408_7413_8544": {
+          "rate": "0%",
+          "staging": "Phased reduction, most at 0% by 2027",
+          "note": "Copper wire and insulated conductors: tariff elimination over 5-7 year staging. Many lines at 0% by 2025-2026. Verify specific line."
+        },
+        "aluminum_7604_7608_7610_7616": {
+          "rate": "0% - 3%",
+          "staging": "Phased, 5-7 year staging",
+          "note": "Aluminum products have staged reductions. Many lines approaching 0% by 2026-2027. Verify specific line."
+        }
+      },
+      "rules_of_origin": "EVFTA requires goods to originate in Vietnam per the agreement's rules of origin protocol. Transshipment through Vietnam of Chinese-origin goods does NOT qualify."
+    }
+  },
+
+  "trade_lane_summary": {
+    "IN_US": {
+      "base_rate": "MFN (general column)",
+      "preferences": "NONE (US GSP expired, India terminated 2019)",
+      "additional_duties": "Reciprocal tariffs may apply - CHECK CURRENT STATUS",
+      "notes": "India->US: MFN + possible reciprocal tariff. No preference programs available."
+    },
+    "IN_EU": {
+      "base_rate": "MFN (TARIC third-country duty)",
+      "preferences": "NONE (India graduated from EU GSP on our product categories)",
+      "additional_duties": "None specific to India",
+      "notes": "India->EU: Standard MFN rate. No preferences for our products."
+    },
+    "CN_US": {
+      "base_rate": "MFN (general column)",
+      "preferences": "NONE",
+      "additional_duties": "Section 301 (25%), Section 232 (25% on aluminum), reciprocal tariffs - CHECK CURRENT STATUS",
+      "notes": "China->US: HIGHEST duty lane. MFN + Section 301 + Section 232 (aluminum) + reciprocal tariffs. Multiple layers stack."
+    },
+    "CN_EU": {
+      "base_rate": "MFN (TARIC third-country duty)",
+      "preferences": "NONE",
+      "additional_duties": "EU anti-dumping on aluminum extrusions from China (21.2-32.1%)",
+      "notes": "China->EU: MFN + possible EU anti-dumping on aluminum. No additional duties on electronics or chemicals."
+    },
+    "VN_US": {
+      "base_rate": "MFN (general column)",
+      "preferences": "NONE (no US-Vietnam FTA)",
+      "additional_duties": "Reciprocal tariffs may apply - CHECK CURRENT STATUS",
+      "notes": "Vietnam->US: MFN + possible reciprocal tariff. No FTA preference."
+    },
+    "VN_EU": {
+      "base_rate": "MFN or EVFTA preferential rate",
+      "preferences": "EVFTA (if rules of origin met)",
+      "additional_duties": "None specific to Vietnam",
+      "notes": "Vietnam->EU: BEST available rate for EU lanes. EVFTA provides 0% on most products if rules of origin are met."
+    },
+    "EU_US": {
+      "base_rate": "MFN (general column)",
+      "preferences": "NONE (no EU-US FTA)",
+      "additional_duties": "Reciprocal tariffs may apply - CHECK CURRENT STATUS. Section 232 applies to aluminum regardless of origin.",
+      "notes": "EU->US: MFN + possible reciprocal tariff + Section 232 on aluminum. No FTA preference."
+    }
+  },
+
+  "metadata": {
+    "last_verified": "2026-04-14",
+    "sources": [
+      "USTR GSP program page",
+      "EU Regulation 978/2012 on GSP",
+      "EU Regulation 2023/2663 on GSP graduation",
+      "EU-Vietnam FTA text and tariff schedules",
+      "USTR reciprocal tariff announcements"
+    ]
+  }
+}

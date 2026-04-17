@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "59672",
+    "code": "3824100000",
+    "description": "Prepared binders for foundry moulds or cores",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "72660",
+    "code": "3824100010",
+    "description": "Based on synthetic resins",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "72659",
+    "code": "3824100090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "59674",
+    "code": "3824300000",
+    "description": "Non-agglomerated metal carbides mixed together or with metallic binders",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "109400",
+    "code": "3824300010",
+    "description": "Tungsten carbides",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "82114",
+    "code": "3824300010",
+    "description": "In the form of irregular and non-free-flowing particles, simply mixed with metallic powder",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "108689",
+    "code": "3824300020",
+    "description": "Ready-to-press powder, in the form of spherical or granular shaped, homogeneous and free-flowing particles, simply mixed with metallic powder and/or other carbides, and an organic binder",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109403",
+    "code": "3824300030",
+    "description": "Other, in the form of spherical or granular shaped, homogeneous and free-flowing particles, simply mixed with metallic powder and/or other carbides",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109404",
+    "code": "3824300040",
+    "description": "Other, simply mixed with metallic powder and/or other carbides",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "82115",
+    "code": "3824300090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "59675",
+    "code": "3824400000",
+    "description": "Prepared additives for cements, mortars or concretes",
+    "leaf": true,
+    "indent": 1
+  },
+  {
+    "id": "59676",
+    "code": "3824500000",
+    "description": "Non-refractory mortars and concretes",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "59677",
+    "code": "3824501000",
+    "description": "Concrete ready to pour",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "59678",
+    "code": "3824509000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "59679",
+    "code": "3824600000",
+    "description": "Sorbitol other than that of subheading\u00a02905\u00a044",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "59680",
+    "code": "3824601100",
+    "description": "In aqueous solution",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "59681",
+    "code": "3824601100",
+    "description": "Containing 2\u00a0% or less by weight of D-mannitol, calculated on the D-glucitol content",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "59682",
+    "code": "3824601900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "59683",
+    "code": "3824609100",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "59684",
+    "code": "3824609100",
+    "description": "Containing 2\u00a0% or less by weight of D-mannitol, calculated on the D-glucitol content",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "59685",
+    "code": "3824609900",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "85811",
+    "code": "3824810000",
+    "description": "Goods specified in subheading note 3\u00a0to this chapter",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "85812",
+    "code": "3824810000",
+    "description": "Containing oxirane (ethylene oxide)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "85813",
+    "code": "3824820000",
+    "description": "Containing polychlorinated biphenyls (PCBs), polychlorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109115",
+    "code": "3824820010",
+    "description": "preparation containing polychlorinated biphenyls (PCBs)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109150",
+    "code": "3824820020",
+    "description": "preparation containing hexabromobiphenyl (CAS 36355-01-8)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109114",
+    "code": "3824820090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "85814",
+    "code": "3824830000",
+    "description": "Containing tris(2,3-dibromopropyl) phosphate",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101856",
+    "code": "3824840000",
+    "description": "Containing aldrin (ISO), camphechlor (ISO) (toxaphene), chlordane (ISO), chlordecone (ISO), DDT (ISO) (clofenotane (INN), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane), dieldrin (ISO, INN), endosulfan (ISO), endrin (ISO), heptachlor (ISO) or mirex (ISO)",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109098",
+    "code": "3824840010",
+    "description": "preparation containing DDT (ISO)  (CAS 50-29-3)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109121",
+    "code": "3824840015",
+    "description": "preparation containing camphechlor (ISO)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109099",
+    "code": "3824840020",
+    "description": "preparation containing chlordane (ISO)  (CAS 57-74-9)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109103",
+    "code": "3824840030",
+    "description": "preparation containing dieldrin (ISO)  (CAS 60-57-1)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109104",
+    "code": "3824840040",
+    "description": "preparation containing endrin (ISO)  (CAS 72-20-8)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109107",
+    "code": "3824840050",
+    "description": "preparation containing endosulfan (ISO)  (115-29-7)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109113",
+    "code": "3824840060",
+    "description": "preparation containing chlordecone (ISO) (CAS 143-50-0)",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109117",
+    "code": "3824840070",
+    "description": "preparation containing mirex",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109100",
+    "code": "3824840090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101857",
+    "code": "3824850000",
+    "description": "Containing 1,2,3,4,5,6-hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101858",
+    "code": "3824860000",
+    "description": "Containing pentachlorobenzene (ISO) or hexachlorobenzene (ISO)",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101859",
+    "code": "3824870000",
+    "description": "Containing perfluorooctane sulphonic acid, its salts, perfluorooctane sulphonamides, or perfluorooctane sulphonyl fluoride",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101860",
+    "code": "3824880000",
+    "description": "Containing tetra-, penta-, hexa-, hepta- or octabromodiphenyl ethers",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107843",
+    "code": "3824890000",
+    "description": "Containing short-chain chlorinated paraffins",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "109127",
+    "code": "3824890010",
+    "description": "alkanes, C10-13, chloro  (CAS 85535-84-8 )",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "109126",
+    "code": "3824890090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101861",
+    "code": "3824910000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "101865",
+    "code": "3824910000",
+    "description": "Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl methyl methylphosphonate and bis[(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] methylphosphonate",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "107845",
+    "code": "3824920000",
+    "description": "Polyglycol esters of methylphosphonic acid",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "101863",
+    "code": "3824990000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "101866",
+    "code": "3824991000",
+    "description": "Petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101867",
+    "code": "3824991500",
+    "description": "Ion-exchangers",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101870",
+    "code": "3824992000",
+    "description": "Getters for vacuum tubes",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101871",
+    "code": "3824992500",
+    "description": "Pyrolignites (for example, of calcium); crude calcium tartrate; crude calcium citrate",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101872",
+    "code": "3824993000",
+    "description": "Naphthenic acids, their water-insoluble salts and their esters",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "101873",
+    "code": "3824994500",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "101874",
+    "code": "3824994500",
+    "description": "Anti-scaling and similar compounds",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101875",
+    "code": "3824995000",
+    "description": "Preparations for electroplating",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101876",
+    "code": "3824995500",
+    "description": "Mixtures of mono-, di- and tri-, fatty acid esters of glycerol (emulsifiers for fats)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101878",
+    "code": "3824996100",
+    "description": "Products and preparations for pharmaceutical or surgical uses",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "101879",
+    "code": "3824996100",
+    "description": "Intermediate products of the antibiotics manufacturing process obtained from the fermentation of Streptomyces tenebrarius, whether or not dried, for use in the manufacture of human medicaments of heading\u00a03004",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101880",
+    "code": "3824996200",
+    "description": "Intermediate products from the manufacture of monensin salts",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101881",
+    "code": "3824996400",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101882",
+    "code": "3824996500",
+    "description": "Auxiliary products for foundries (other than those of subheading\u00a03824\u00a010\u00a000)",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101883",
+    "code": "3824997000",
+    "description": "Fireproofing, waterproofing and similar protective preparations used in the building industry",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "101884",
+    "code": "3824997500",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "101885",
+    "code": "3824997500",
+    "description": "Lithium niobate wafer, undoped",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101886",
+    "code": "3824998000",
+    "description": "Mixture of amines derived from dimerised fatty acids, of an average molecular weight of 520\u00a0or more but not exceeding 550",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101887",
+    "code": "3824998500",
+    "description": "3-(1-Ethyl-1-methylpropyl)isoxazol-5-ylamine, in the form of a solution in toluene",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101969",
+    "code": "3824998600",
+    "description": "Mixtures consisting mainly of dimethyl methylphosphonate, oxirane and diphosphorus pentaoxide",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "101889",
+    "code": "3824999200",
+    "description": "Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "101890",
+    "code": "3824999200",
+    "description": "In the form of a liquid at 20\u00a0\u00b0C",
+    "leaf": false,
+    "indent": 6
+  },
+  {
+    "id": "109125",
+    "code": "3824999201",
+    "description": "Naphthalene, chloro derivatives (CAS 70776-03-3)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109129",
+    "code": "3824999202",
+    "description": "preparation containing hexabromocyclododecane (CAS 25637-99-4, 3194-55-6)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109955",
+    "code": "3824999207",
+    "description": "Mixtures containing halogenated derivatives of ethylene or propylene",
+    "leaf": false,
+    "indent": 7
+  },
+  {
+    "id": "109956",
+    "code": "3824999207",
+    "description": "R514A (containing 74,7\u00a0% of 1,1,1,4,4,4-hexafluoro-2-butene (HFC-1336mzz) and 25,3\u00a0% of trans\u20131,2-dichloroethylene)",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "109957",
+    "code": "3824999208",
+    "description": "Other",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "101891",
+    "code": "3824999210",
+    "description": "Blends containing by weight more than 20% of paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin",
+    "leaf": false,
+    "indent": 7
+  },
+  {
+    "id": "101892",
+    "code": "3824999210",
+    "description": "Consigned from Canada",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "108869",
+    "code": "3824999214",
+    "description": "Other",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "109953",
+    "code": "3824999217",
+    "description": "Blends containing by weight 20% or less of paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108250",
+    "code": "3824999221",
+    "description": "Reaction products of 1,3,4-thiadiazolidine-2,5-dithione, formaldehyde and<br> 4-heptylphenol, branched and linear (RP-HP) (with \u2265 0,1% w/w 4-heptylphenol, branched and<br> linear)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108430",
+    "code": "3824999222",
+    "description": "Solution containing:<br>-30\u00a0% or more but not more than 40\u00a0% by weight of lithium hexafluorophosphate (CAS RN 21324-40-3), and<br>-60\u00a0% or more but not more than 70\u00a0% by weight of ethyl methyl carbonate (CAS RN 623-53-0), or dimethyl carbonate (CAS RN 616-38-6)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101897",
+    "code": "3824999223",
+    "description": "Butylphosphato complexes of titanium(IV) (CAS RN 109037-78-7), dissolved in ethanol and propan-2-ol",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105156",
+    "code": "3824999224",
+    "description": "4-(1,1,3,3-tetramethylbutyl)phenol, ethoxylated",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109841",
+    "code": "3824999225",
+    "description": "Mixture containing by weight:<br>-55\u00a0% or more but not more than 65\u00a0% of (2S,3S,4S,5R,6R)-2-(((2R,3R,5S,6R)-4-(((2R,3S,4S,5R,6R)-3-acetoxy-4,5-bis(benzyloxy)-6-((benzyloxy)methyl)tetrahydro-2H-pyran-2-yl)oxy)-3,5-bis(benzyloxy)-6-(4-methoxy-4-oxobutoxy)tetrahydro-2H-pyran-2-yl)methoxy)-6-((((2S,3S,4S,5R,6R)-3-acetoxy-4,5-bis(benzyloxy)-6-((benzyloxy)methyl)tetrahydro-2H-pyran-2-yl)oxy)methyl)tetrahydro-2H-pyran-3,4,5-triyl tribenzoate (CAS RN 1233475-58-5),<br>-35\u00a0% or more but not more than 45\u00a0% of toluene (CAS RN 108-88-3)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "110194",
+    "code": "3824999227",
+    "description": "Methyl 5-(dimethylamino)-2-methyl-5-oxopentanoate (CAS RN 1174627-68-9) with a purity by weight of 75\u00a0% or more",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109840",
+    "code": "3824999228",
+    "description": "Preparation containing by weight:\u00a0<br>-30\u00a0% or more, but not more than 60\u00a0% of 3a,4,4a,5,8,8a,9,9a-octahydro-4,9:5,8-dimethano-1H-benz[f]indene (CAS RN 7158-25-0),\u00a0<br>-10\u00a0% or more, but not more than 50\u00a0% of 3a,4,7,7a-tetrahydro-4,7-methanoindene (CAS RN 77-73-6), and\u00a0<br>-whether or not 10\u00a0% or more, but not more than 40\u00a0% of petroleum hydrocarbon resin (CAS RN 68132-00-3)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "103562",
+    "code": "3824999229",
+    "description": "Preparation containing by weight:<br>-\u00a085\u00a0% or more but not more than 99\u00a0% of polyethylene glycol ether of butyl 2-cyano 3-(4-hydroxy-3-methoxyphenyl) acrylate, and<br>-\u00a01\u00a0% or more but not more than 15\u00a0% of polyoxyethylene (20) sorbitan trioleate<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "110195",
+    "code": "3824999230",
+    "description": "Mixture of C10-C14\u00a0tert-alkyl amines (EC number: 701-175-2)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101899",
+    "code": "3824999233",
+    "description": "Anti-corrosion preparations consisting of salts of dinonylnaphthalenesulphonic acid, either:<br>-\u00a0on a support of mineral wax, whether or not modified chemically, or<br>-\u00a0in the form of a solution in an organic solvent<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105155",
+    "code": "3824999234",
+    "description": "4-Nonylphenol, branched and linear, ethoxylated",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101903",
+    "code": "3824999237",
+    "description": "Mixture of acetates of 3-butene-1,2-diol with a content by weight of 65% or more of 3-butene-1,2-diol diacetate (CAS RN 18085-02-4)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "104838",
+    "code": "3824999238",
+    "description": "Reaction products of phosphoryl trichloride and 2-methyloxirane (CAS\u00a0RN\u00a01244733-77-4)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "103038",
+    "code": "3824999240",
+    "description": "Solution of 2-chloro-5-(chloromethyl)-pyridine (CAS RN 70258-18-3) in organic diluent",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "104771",
+    "code": "3824999241",
+    "description": "Formaldehyde, oligomeric reaction products with aniline (CAS RN 25214-70-4)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109441",
+    "code": "3824999244",
+    "description": "Mixture, containing by weight:\u00a0<br>-90\u00a0% or more but not more than 95\u00a0% of cresol ethoxylate (CAS\u00a0RN\u00a037281-57-5), and<br>-5\u00a0% or more but not more than 10\u00a0% of xylenol ethoxylate (CAS\u00a0RN\u00a061723-82-8)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109842",
+    "code": "3824999248",
+    "description": "Preparation containing by weight:\u00a0<br>-80\u00a0% or more, but not more than 90\u00a0% of 3a,4,7,7a-tetrahydro-4,7-methanoindene (CAS\u00a0RN\u00a077-73-6), and\u00a0<br>-not more than 10\u00a0% of 3a,4,4a,5,8,8a,9,9a-octahydro-1H-4,9:5,8-dimethanocyclopenta[b]naphtalene (CAS\u00a0RN\u00a07158-25-0), and\u00a0<br>-0,5\u00a0% or more, but not more than 3\u00a0% of 2,6-di-tert-butyl-p-cresol (CAS\u00a0RN\u00a0128-37-0)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101911",
+    "code": "3824999249",
+    "description": "Preparation based on 2,5,8,11-tetramethyl-6-dodecyn-5,8-diol ethoxylate (CAS RN 169117-72-0)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101913",
+    "code": "3824999251",
+    "description": "Mixture containing by weight 40\u00a0% or more but not more than 50\u00a0% of 2-hydroxyethyl methacrylate and 40\u00a0% or more but not more than 50\u00a0% of glycerol ester of boric acid",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "104904",
+    "code": "3824999252",
+    "description": "Electrolyte containing:<br>-5\u00a0% or more but not more than 20\u00a0% lithium hexafluorophosphate (CAS\u00a0RN\u00a021324-40-3) or lithium tetrafluoroborate (CAS\u00a0RN\u00a014283-07-9),<br>-60\u00a0% or more but not more than 90\u00a0% of a mixture of ethylene carbonate (CAS\u00a0RN\u00a096-49-1), dimethyl carbonate (CAS\u00a0RN\u00a0616-38-6\u00a0) and/or ethyl methyl carbonate (CAS\u00a0RN\u00a0623-53-0),<br>-0,5\u00a0% or more but not more than 20\u00a0% 1,3,2-dioxathiolane 2,2-dioxide (CAS\u00a0RN\u00a01072-53-3)<br>for use in the manufacture of motor vehicle batteries",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101915",
+    "code": "3824999254",
+    "description": "Poly(tetramethylene glycol) bis[(9-oxo-9H-thioxanthen-1-yloxy)acetate]\u00a0with an average polymer chain length of less than 5\u00a0monomer units (CAS RN\u00a0813452-37-8)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101916",
+    "code": "3824999255",
+    "description": "Additives for paints and coatings, containing:<br>-\u00a0a mixture of esters of phosphoric acid obtained from the reaction of phosphoric anhydride with 4-(1,1-dimethylpropyl) phenol and\u00a0 copolymers of styrene-allyl alcohol\u00a0 (CAS RN 84605-27-6), and<br>-\u00a030\u00a0% or more but not more than 35\u00a0% by weight of isobutyl alcohol<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109862",
+    "code": "3824999258",
+    "description": "Mixture containing by weight:<br>-56\u00a0% or more but not more than 85\u00a0% of divinylbenzene isomers (CAS\u00a0RN\u00a01321-74-0)<br>-15\u00a0% or more but not more than 44\u00a0% of ethylvinylbenzene isomers (CAS\u00a0RN\u00a028106-30-1)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101922",
+    "code": "3824999261",
+    "description": "3',4',5'-Trifluorobiphenyl-2-amine, in the form of a solution in toluene containing by weight 80\u00a0% or more but not more than 90\u00a0% of 3',4',5'-trifluorobiphenyl-2-amine",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105439",
+    "code": "3824999262",
+    "description": "Solution of 9-borabicyclo[3.3.1]nonane (CAS RN 280-64-8) in tetrahydrofurane (CAS RN 109-99-9), containing by weight 6\u00a0% or more 9-borabicyclo[3.3.1]nonane",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101923",
+    "code": "3824999263",
+    "description": "Polymer consisting of a polycondensate of formaldehyde and naphthalenediol, chemically modified by reaction with an alkyne halide, dissolved in propylene glycol methyl ether acetate",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101926",
+    "code": "3824999266",
+    "description": "Ethyl alcohol produced from agricultural products (as listed in Annex I to the Treaty on the Functioning of the European Union), denatured or undenatured, excluding products with a water content of more than 0,3\u00a0% (m/m) measured according to the standard EN 15376, but including ethyl alcohol produced from agricultural products (as listed in Annex I to the Treaty on the Functioning of the European Union) contained in blends with gasoline with an ethyl alcohol content of more than 10\u00a0% (v/v)",
+    "leaf": false,
+    "indent": 7
+  },
+  {
+    "id": "101927",
+    "code": "3824999266",
+    "description": "For use as fuel",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "101928",
+    "code": "3824999267",
+    "description": "For other uses",
+    "leaf": true,
+    "indent": 8
+  },
+  {
+    "id": "101929",
+    "code": "3824999268",
+    "description": "Preparation containing by weight:<br>-\u00a020\u00a0% (\u00b11\u00a0%) ((3-(sec-butyl)-4-(decyloxy)phenyl)methanetriyl) Tribenzene (CAS RN 1404190-37-9),<br>Dissolved in:<br>-\u00a010\u00a0% (\u00b1 5\u00a0%) 2-sec-Butylphenol (CAS RN 89-72-5)<br>-\u00a064\u00a0%( \u00b17\u00a0%) Solvent naphtha (petroleum), heavy aromatic (CAS RN 64742-94-5) and<br>-\u00a06\u00a0% (\u00b1 1.0\u00a0%) Naphthalene (CAS RN 91-20-3)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101930",
+    "code": "3824999269",
+    "description": "Preparation containing by weight:<br>- 80\u00a0% or more but not more than 92\u00a0% of Bisphenol-A bis(diphenyl phosphate) (CAS RN 5945-33-5)<br>- 7\u00a0% or more but not more than 20\u00a0% oligomers of Bisphenol-A bis(diphenyl phosphate) and<br>- not more than 1\u00a0% triphenyl phosphate (CAS RN 115-86-6)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101931",
+    "code": "3824999270",
+    "description": "Mixture of 80\u00a0% (\u00b1\u00a010\u00a0%) of 1-[2-(2-aminobutoxy)ethoxy]but-2-ylamine and 20\u00a0%\u00a0(\u00b1\u00a010\u00a0%) of 1-({[2-(2-aminobutoxy)ethoxy]methyl} propoxy)but-2-ylamine",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108644",
+    "code": "3824999273",
+    "description": "Tri-C8-10-alkyl amines (CAS\u00a0RN\u00a068814-95-9)\u00a0with a purity by weight of 95\u00a0% or more",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108646",
+    "code": "3824999275",
+    "description": "Mixture, containing by weight:<br>-75% or more of tetrabutyltin (CAS\u00a0RN\u00a01461-25-2),<br>-not more than 20\u00a0% of tributyltin chloride (CAS\u00a0RN\u00a01461-22-9),<br>-not more than 4\u00a0% of dibutyltin dichloride (CAS\u00a0RN\u00a0683-18-1),<br>for use in the production of butyltin compounds used in glass manufacture and tributyltin chloride used as a catalyst in the pharmaceutical industry",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108647",
+    "code": "3824999279",
+    "description": "Mixture, containing by weight:<br>-tributyltin chloride (CAS\u00a0RN\u00a01461-22-9) with a purity by weight of 80\u00a0% or more,<br>-not more than 5\u00a0% tetrabutyltin (CAS\u00a0RN\u00a01461-25-2),<br>-not more than 6\u00a0% dibutyltin dichloride (CAS\u00a0RN\u00a0683-18-1),<br>-not more than 11\u00a0% o-xylene (CAS\u00a0RN\u00a095-47-6),<br>for use in the production of tributyltin chloride used as a catalyst in the pharmaceutical industry",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108782",
+    "code": "3824999281",
+    "description": "Reaction mass of 3- [(diphenoxyphosphoryl)oxy]phenyl triphenyl 1,3-phenylene bis(phosphate) and tetraphenyl 1,3-phenylene bis(phosphate)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101942",
+    "code": "3824999282",
+    "description": "T-butylchloride dimethylsilane (CAS RN 18162-48-6) solution in toluene",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108678",
+    "code": "3824999283",
+    "description": "1-(Cedr-8-en-9-yl)ethanone (CAS\u00a0RN\u00a032388-55-9) with a purity by weight of 70\u00a0% or more, but not more than 90\u00a0%",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101944",
+    "code": "3824999284",
+    "description": "Preparation consisting by weight of 83\u00a0% or more of 3a,4,7,7a-tetrahydro-4,7-methanoindene (dicyclopentadiene), a synthetic rubber, whether or not containing by weight 7\u00a0% or more of tricyclopentadiene, and:<br>-\u00a0either an aluminium-alkyl compound,<br>-\u00a0or an organic complex of tungsten<br>-\u00a0or an organic complex of molybdenum<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108679",
+    "code": "3824999286",
+    "description": "Tall oil N,N-dimethyl fatty amides (CAS RN 68308-74-7)\u00a0with a purity by weight of 99\u00a0% or more",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101948",
+    "code": "3824999288",
+    "description": "2,4,7,9-Tetramethyldec-5-yne-4,7-diol, hydroxyethylated (CAS RN 9014-85-1)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "103539",
+    "code": "3824999289",
+    "description": "Mixture of tertiary alkyldimethyl amines containing by weight:<br>- 60\u00a0% or more but not more than 80\u00a0% of dodecyldimethylamine (CAS RN 112-18-5), and<br>- 20\u00a0% or more but not more than 30\u00a0% of dimethyl(tetradecyl)amine (CAS RN 112-75-4)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105470",
+    "code": "3824999290",
+    "description": "1,2-benzenedicarboxylic acid, di-C6-10-alkyl esters (CAS RN 68515-51-5)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105471",
+    "code": "3824999291",
+    "description": "1,2-benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters with \u2265 0,3% of dihexyl phthalate (CAS RN 68648-93-1)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "106060",
+    "code": "3824999292",
+    "description": "Solution consisting of:<br>-\u00a050\u00a0(\u00b1 2)\u00a0% by weight sodium mentholate (CAS RN 19321-38-1), and<br>-\u00a050\u00a0(\u00b1 2)\u00a0% by weight light aliphatic solvent naphtha (petroleum) (CAS RN 64742-89-8)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108060",
+    "code": "3824999294",
+    "description": "({[2-(trifluoromethyl)phenyl]carbonyl}amino)methyl acetate (CAS\u00a0RN\u00a0895525-72-1) with a content of at least 45\u00a0% by weight dissolved in N,N-dimethylacetamide (CAS\u00a0RN\u00a0127-19-5)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108061",
+    "code": "3824999295",
+    "description": "Solution of methyl cis-1-{[(2,5-dimethylphenyl)acetyl]amino}-4-methoxycyclohexanecarboxylate (CAS RN 203313-47-7) in N,N-dimethylacetamide (CAS RN 127-19-5), containing by weight 25\u00a0% or more but not more than 45\u00a0% of the carboxylate",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109386",
+    "code": "3824999296",
+    "description": "Products containing more than 35\u00a0% by weight of epoxy resins, also known as epoxide resins or polyepoxides, which are polymers or prepolymers containing reactive epoxy groups, based on epichlorohydrin (\u2018ECH\u2019) and an aliphatic or aromatic alcoholic component (such as BPA), having all types of grade, purity, molecule weight or molecular structure, whether or not containing modifiers, curing agents, or additives, so long as the curing agents have not chemically reacted so as to cure the epoxy resin or convert it into a different product no longer containing epoxy groups",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109472",
+    "code": "3824999297",
+    "description": "Mixture containing bis[3-(triethoxysilyl)propyl]polysulfides (CAS RN 211519-85-6) with a purity by weight of 84\u00a0% or more",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105383",
+    "code": "3824999298",
+    "description": "Monosodium glutamate in mixture or in solution, containing by dry weight 50\u00a0% or more of monosodium glutamate",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101949",
+    "code": "3824999299",
+    "description": "Other",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101970",
+    "code": "3824999300",
+    "description": "Other",
+    "leaf": false,
+    "indent": 6
+  },
+  {
+    "id": "109387",
+    "code": "3824999310",
+    "description": "Products containing more than 35\u00a0% by weight of epoxy resins, also known as epoxide resins or polyepoxides, which are polymers or prepolymers containing reactive epoxy groups, based on epichlorohydrin (\u2018ECH\u2019) and an aliphatic or aromatic alcoholic component (such as BPA), having all types of grade, purity, molecule weight or molecular structure, whether or not containing modifiers, curing agents, or additives, so long as the curing agents have not chemically reacted so as to cure the epoxy resin or convert it into a different product no longer containing epoxy groups",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109130",
+    "code": "3824999320",
+    "description": "Preparation containing hexabromocyclododecane (CAS 25637-99-4 or 134237-52-8)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "103563",
+    "code": "3824999330",
+    "description": "Powder Mixture containing by weight:<br>-\u00a085\u00a0% or more of zinc diacrylate (CAS\u00a0RN\u00a014643-87-9),<br>-\u00a0not more than 5\u00a0% of 2,6-di-tert-butyl-alpha-dimethylamino-p-cresol (CAS\u00a0RN\u00a088-27-7), and<br>-\u00a0not more than 10\u00a0% of zinc stearate (CAS\u00a0RN\u00a0557-05-1)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "109442",
+    "code": "3824999331",
+    "description": "Reaction mass of dihexadecyl hydrogen phosphate (CAS\u00a0RN\u00a02197-63-9) and hexadecyl dihydrogen phosphate (CAS\u00a0RN\u00a03539-43-3)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108648",
+    "code": "3824999333",
+    "description": "Preparation containing by weight\u00a0<br>-60\u00a0% or more\u00a0but not more than 70\u00a0% of calcium\u00a0rel-(1R,2S)-cyclohexane-1,2-dicarboxylate (CAS\u00a0RN\u00a0491589-22-1),\u00a0<br>-30\u00a0% or more but not more than 40\u00a0% of zinc stearate (CAS\u00a0RN\u00a0557-05-1),\u00a0<br>-1\u00a0% or more but not more than 5\u00a0% of CI Pigment Blue 29\u00a0(CAS\u00a0RN\u00a057455-37-5) and\u00a0<br>-1\u00a0% or more but not more than 5\u00a0% of CI Pigment Violet 15\u00a0(CAS\u00a0RN\u00a012769-96-9)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101971",
+    "code": "3824999335",
+    "description": "Paraffin with a level of chlorination of\u00a070\u00a0% or more\u00a0(CAS RN 63449-39-8)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108649",
+    "code": "3824999336",
+    "description": "Preparation containing by weight 60\u00a0% or more but not more than 70\u00a0% of calcium\u00a0rel-(1R,2S)-cyclohexane-1,2-dicarboxylate (CAS\u00a0RN\u00a0491589-22-1) and 30\u00a0% or more but not more than 40\u00a0% of zinc stearate (CAS\u00a0RN\u00a0557-05-1)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101972",
+    "code": "3824999340",
+    "description": "Anti-corrosion preparations consisting of salts of dinonylnaphthalenesulphonic acid, either:<br>-\u00a0on a support of mineral wax, whether or not modified chemically, or<br>-\u00a0in the form of a solution in an organic solvent<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101973",
+    "code": "3824999342",
+    "description": "Mixture of bis{4-(3-(3-phenoxycarbonylamino)tolyl)ureido}phenylsulphone, diphenyltoluene-2,4-dicarbamate and 1-[4-(4-aminobenzenesulphonyl)-phenyl]-3-(3-phenoxycarbonylamino-tolyl)-urea",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "102883",
+    "code": "3824999345",
+    "description": "Sodium hydrogen 3-aminonaphthalene-1,5-disulphonate (CAS RN 4681-22-5) containing by weight:<br>-\u00a0not more than 20\u00a0% of disodium sulphate, and<br>-\u00a0not more than 10\u00a0% of sodium chloride<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "104878",
+    "code": "3824999348",
+    "description": "Nonhalogenated flame retardant containing by weight:<br>-50\u00a0% or more, but not more than 65\u00a0% of piperazine pyrophosphate (CAS\u00a0RN\u00a066034-17-1),<br>-35\u00a0% or more, but not more than 45\u00a0% of a phosphoric acid derivative and<br>-not more than 6\u00a0% of zinc oxide (CAS\u00a0RN\u00a01314-13-2)<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101975",
+    "code": "3824999353",
+    "description": "Zinc dimethacrylate (CAS RN 13189-00-9), containing not more than 2,5\u00a0% by weight of 2,6-di-tert-butyl-alpha-dimethyl amino-p-cresol (CAS RN 88-27-7), in the form of powder",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108823",
+    "code": "3824999361",
+    "description": "Disodium 7,7'-(carbonyldiimino)bis(4-hydroxynaphthalene-2-sulphonate) (CAS\u00a0RN\u00a020324-87-2) with a purity by weight of 80\u00a0% or more",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101977",
+    "code": "3824999363",
+    "description": "Mixture of phytosterols, not in the form of powder, containing by weight:<br>-\u00a075\u00a0% or more of sterols,<br>-\u00a0not more than 25\u00a0% of stanols,<br>for use in the manufacture of stanols/sterols or stanol/sterol esters",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "104458",
+    "code": "3824999365",
+    "description": "Reaction mass of 1,1'-(isopropylidene)bis[3,5-dibromo-4-(2,3-dibromo-2-methylpropoxy)benzene] (CAS RN 97416-84-7) and 1,3-dibromo-2-(2,3-dibromo-2-methylpropoxy)-5-{2-[3,5-dibromo-4-(2,3,3-tribromo-2-methylpropoxy)phenyl]propan-2-yl}benzene",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101978",
+    "code": "3824999367",
+    "description": "Mixture of phytosterols, in the form of powder, containing by weight:<br>- 75% or more of sterols, <br>- not more than 25% of stanols <br>for use in the manufacture of stanols/sterols or stanol/sterol esters<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "108450",
+    "code": "3824999374",
+    "description": "1,3-Propanediamine, N1,N1'-1,2-ethanediylbis-, reaction products with cyclohexane and peroxidized N-butyl-2,2,6,6-tetramethyl-4-piperidinamine-2,4,6-trichloro-1,3,5-triazine reaction products (CAS RN 191680-81-6)",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101987",
+    "code": "3824999388",
+    "description": "Mixture of phytosterols containing by weight:<br>-\u00a060\u00a0% or more, but not more than 80\u00a0% of sitosterols,<br>-\u00a0not more than 15\u00a0% of campesterols,<br>-\u00a0not more than 5\u00a0% of stigmasterols and<br>-\u00a0not more than 15\u00a0% of betasitostanols<br>",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "105384",
+    "code": "3824999389",
+    "description": "Monosodium glutamate in mixture or in solution, containing by dry weight 50\u00a0% or more of monosodium glutamate",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101988",
+    "code": "3824999390",
+    "description": "Other",
+    "leaf": true,
+    "indent": 7
+  },
+  {
+    "id": "101998",
+    "code": "3824999600",
+    "description": "Other",
+    "leaf": false,
+    "indent": 5
+  },
+  {
+    "id": "104002",
+    "code": "3824999630",
+    "description": "Rare-earth concentrate containing by weight:<br>-\u00a020\u00a0% or more but not more than 30\u00a0% of cerium oxide (CAS RN 1306-38-3),<br>-\u00a02\u00a0% or more but not more than 10\u00a0% of lanthanum oxide (CAS RN 1312-81-8),<br>-\u00a010\u00a0% or more but not more than 15\u00a0% of yttrium oxide (CAS RN 1314-36-9), and<br>-\u00a0not more than 65\u00a0% of zirconium oxide (CAS RN 1314-23-4) including natural occurring hafnium oxide<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "101999",
+    "code": "3824999635",
+    "description": "Calcined bauxite (refractory grade)",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102000",
+    "code": "3824999637",
+    "description": "Structured silica alumina phosphate",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102681",
+    "code": "3824999640",
+    "description": "Anti-corrosion preparations consisting of salts of dinonylnaphthalenesulphonic acid, either:<br>-\u00a0on a support of mineral wax, whether or not modified chemically, or<br>-\u00a0in the form of a solution in an organic solvent<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "108650",
+    "code": "3824999643",
+    "description": "2-(Ethylthio)ethanethiol functionalized silicagel with a purity by weight of 98\u00a0% or more",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "103684",
+    "code": "3824999645",
+    "description": "Lithium nickel cobalt aluminium oxide powder (CAS RN 177997-13-6) with: -a particle size of less than 10 \u03bcm, -a purity by weight of more than 98 %",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102004",
+    "code": "3824999646",
+    "description": "Manganese zinc ferrite granulate, containing by weight:<br>- 52\u00a0% or more but not more than 76\u00a0% of iron(III)oxide,<br>- 13\u00a0% or more but not more than 42\u00a0% of manganese oxide, and<br>- 2\u00a0% or more but not more than 22\u00a0% of zinc oxide<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102005",
+    "code": "3824999647",
+    "description": "Mixed metals oxides, in the form of powder, containing by weight:<br>-\u00a0either 5\u00a0% or more of barium, neodymium or magnesium and 15\u00a0% or more of titanium,<br>-\u00a0or 30\u00a0% or more of lead and 5\u00a0% or more of niobium,<br>for use in the manufacture of dielectric films or for use as dielectric materials in the manufacture of multilayer ceramic capacitors",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102006",
+    "code": "3824999648",
+    "description": "Zirconium oxide (ZrO<sub>2</sub>), calcium oxide stabilised (CAS RN 68937-53-1) with a zirconium oxide content by weight of 92\u00a0% or more but not more than 97\u00a0%",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102007",
+    "code": "3824999650",
+    "description": "Nickel hydroxide, doped with 12\u00a0% or more but not more than 18\u00a0% by weight of zinc hydroxide and cobalt hydroxide, of a kind used to produce positive electrodes for accumulators",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102008",
+    "code": "3824999653",
+    "description": "Rare-earth concentrate containing by weight 60\u00a0% or more but not more than 95\u00a0% of rare-earth oxides and not more than 1\u00a0% each of zirconium oxide, aluminium oxide or iron oxide, and having a loss on ignition of 5\u00a0% or more by weight",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102009",
+    "code": "3824999655",
+    "description": "Carrier in\u00a0powder form, consisting of:<br>-\u00a0ferrite (Iron oxide) (CAS RN 1309-37-1)<br>-\u00a0manganese oxide (CAS RN 1344-43-0)<br>-\u00a0magnesium oxide (CAS RN 1309-48-4)<br>-\u00a0styrene acrylate copolymer<br>\u00a0to be mixed with the toner powder, in the manufacturing of ink/toner filled \u00a0bottles or cartridges for \u00a0facsimile machines, computer printers and copiers",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102010",
+    "code": "3824999657",
+    "description": "Particles of silicon dioxide on which are covalently bonded organic compounds, for use in the manufacture of high performance liquid chromatography columns (HPLC) and sample preparation cartridges",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102011",
+    "code": "3824999660",
+    "description": "Fused magnesia containing by weight 15\u00a0% or more of dichromium trioxide",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "108765",
+    "code": "3824999662",
+    "description": "Viscous preparation essentially containing:<br>                           -by weight more than 5\u00a0% but not more than 15\u00a0% of poly(vinyl alcohol) (CAS\u00a0RN\u00a09002-89-5),<br>                           -by weight more than 10\u00a0% but not more than 20\u00a0% of 1-methoxy-2-propanol (CAS\u00a0RN\u00a0107-98-2),\u200b<br>                           -water,\u00a0<br>                            for use as a protective coating for wafers during the slicing process in the manufacture of semiconductors",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102013",
+    "code": "3824999665",
+    "description": "Aluminium sodium silicate, in the form of spheres of a diameter of:<br>-\u00a0either 1,6mm or more but not more than 3,4mm,<br>-\u00a0or 4mm or more but not more than 6mm<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "109844",
+    "code": "3824999666",
+    "description": "Vulcanizing agent containing by weight:<br>-78\u00a0% or more but not more than 82\u00a0% of insoluble sulphur (CAS\u00a0RN\u00a09035-99-8),<br>-18\u00a0% or more but not more than 22\u00a0% of naphthenic oil (CAS\u00a0RN\u00a064742-52-5), and<br>-not more than 0,2\u00a0% of methyl styrene (CAS\u00a0RN\u00a098-83-9)<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "106165",
+    "code": "3824999668",
+    "description": "Lithium nickel dioxide (CAS RN 12325-84-7) containing by weight:<br>-less than 5\u00a0% of lithium hydroxide (CAS RN 1310-65-2),<br>-less than 5\u00a0% of lithium carbonate (CAS RN 554-13-2), and<br>-less than 15\u00a0% of nickel oxide (CAS RN 11099-02-8)<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102015",
+    "code": "3824999673",
+    "description": "Reaction product, containing by weight:<br>-\u00a01\u00a0% or more but not more than 40\u00a0% of molybdenum oxide,<br>-\u00a010\u00a0% or more but not more than 50\u00a0% of nickel oxide,<br>-\u00a030\u00a0% or more but not more than 70\u00a0% of tungsten oxide<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "103039",
+    "code": "3824999674",
+    "description": "Mixture with a non-stoichiometric composition:<br>-\u00a0with a crystalline structure,<br>-\u00a0with a content of fused magnesia-alumina spinel and with admixtures of silicate phases and aluminates, at least 75\u00a0% by weight of which consists of fractions with a grain size of 1-3\u00a0mm and at most 25\u00a0% consists of\u00a0 fractions with a grain size of 0-1\u00a0mm<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "110257",
+    "code": "3824999678",
+    "description": "Zirconium oxide stabilized with yttrium oxide (CAS RN 64417-98-7) containing by weight 90\u00a0% or more of zirconium oxide",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102885",
+    "code": "3824999680",
+    "description": "Mixture consisting of:<br>-\u00a064\u00a0% or more, but not more than 74\u00a0% by weight of amorphous silica (CAS RN 7631-86-9)<br>-\u00a025\u00a0% or more, but not more than 35\u00a0% by weight of butanone (CAS RN 78-93-3) and<br>-\u00a0not more than 1\u00a0% by weight of 3-(2,3-epoxypropoxy)propyltrimethoxysilane (CAS RN 2530-83-8)<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "104217",
+    "code": "3824999683",
+    "description": "Cubic Boron nitride (CAS RN 10043-11-5) coated with nickel and/or\u00a0nickelphosphide (CAS RN 12035-64-2)",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102021",
+    "code": "3824999687",
+    "description": "Platinum oxide (CAS RN 12035-82-4) fixed on a porous support of aluminium oxide (CAS RN 1344-28-1), containing by weight:<br>-\u00a00,1\u00a0% or more but not more than 1\u00a0% of platinum, and<br>-\u00a00,5\u00a0% or more but not more than 5\u00a0% of ethylaluminium dichloride (CAS RN 563-43-9)<br>",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "105385",
+    "code": "3824999689",
+    "description": "Monosodium glutamate in mixture or in solution, containing by dry weight 50\u00a0% or more of monosodium glutamate",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "106172",
+    "code": "3824999691",
+    "description": "Mixture, in pellet form, containing by weight:<br>- 49\u00a0% or more but not more than 50\u00a0% of bis[3-(triethoxysilyl)propyl] polysulphides (CAS RN 211519-85-6), and<br>- 50\u00a0% or more but not more than 51\u00a0% of carbon black (CAS RN 1333-86-4),<br>of which 75\u00a0% by weight or more pass through a sieve with an aperture of 0,60 mm, but not more than 10\u00a0% pass through a sieve with an aperture of 0,25 mm (as determined by the ASTM D1511 method)",
+    "leaf": true,
+    "indent": 6
+  },
+  {
+    "id": "102022",
+    "code": "3824999699",
+    "description": "Other",
+    "leaf": true,
+    "indent": 6
+  }
+]

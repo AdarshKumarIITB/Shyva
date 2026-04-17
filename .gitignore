@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.db
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.claude/
+knowledge_base/chapters/*.pdf
+knowledge_base/hts_2026_rev5.json
+.env
+.env.example

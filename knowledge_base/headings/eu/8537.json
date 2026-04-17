@@ -1,0 +1,303 @@
+[
+  {
+    "id": "50825",
+    "code": "8537100000",
+    "description": "For a voltage not exceeding 1\u00a0000\u00a0V",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "50826",
+    "code": "8537101000",
+    "description": "Numerical control panels with built-in automatic data-processing machine",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "50827",
+    "code": "8537101010",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "50828",
+    "code": "8537101090",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "50829",
+    "code": "8537109100",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "50830",
+    "code": "8537109100",
+    "description": "Programmable memory controllers",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "50831",
+    "code": "8537109110",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "105296",
+    "code": "8537109120",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "108422",
+    "code": "8537109125",
+    "description": "A control unit being a printed circuit board with at least:<br>-a microprocessor,<br>-a programmable memory,<br>-a single connector,<br>-a PPE housing,<br>-a supply of voltage of 220\u00a0V or more but not more than 240\u00a0V,<br>-a length of 200\u00a0mm or more but not more than 210\u00a0mm,<br>-a width of 70\u00a0mm or more but not more than 100\u00a0mm, and<br>-a height of 20\u00a0mm or more but not more than 30\u00a0mm,<br>for use in the manufacture of dishwashers",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108454",
+    "code": "8537109135",
+    "description": "A control unit being a printed circuit board with at least:<br>-a microprocessor,<br>-a programmable memory,<br>-two or more connectors, but not more than twelve,<br>-with or without LCD display,<br>-with or without WiFi module, and<br>-with or without an integrated speaker,<br>\u00a0for use in the manufacture of built-in ovens",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108674",
+    "code": "8537109143",
+    "description": "Electronic suspension control unit with:<br>-a printed circuit board in plastic housing,<br>-LIN and CAN buses,<br>-a programmable memory,<br>-a signal processor,<br>-an operating direct current voltage of 9\u00a0V or more\u00a0but not more than 16\u00a0V,<br>-at least one connector,<br>-whether or not with metal mounting bracket,<br>for use in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "106132",
+    "code": "8537109145",
+    "description": "Main hybrid system controller, diagnosing and controlling the elements of the hybrid propulsion system, with:<br>-a programmable memory,<br>-a microprocessor,<br>-at least one composite connector,<br>-a voltage of 24\u00a0V,<br>-with a length of 350\u00a0mm or more but not more than 400\u00a0mm,<br>-with a width of 200\u00a0mm or more but not more than 250\u00a0mm,<br>-with a height of 80\u00a0mm or more but not more than 120\u00a0mm,\u00a0<br>-in a metal housing<br>",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "110229",
+    "code": "8537109148",
+    "description": "Control unit for the automatic transmission oil pump for efficient cooling and oil pressure regulation in the car's drivetrain:<br>-liquid-cooled,<br>-with an operating voltage of 9\u00a0V DC or more, but not more than 16\u00a0V,<br>-with a height of 165\u00a0mm or more, but not more than 190\u00a0mm,<br>-with a width of 40\u00a0mm or more, but not more than 60\u00a0mm,<br>-with a length of 170\u00a0mm or more, but not more than 195\u00a0mm,<br>-in a casing,<br>-with one or more connectors, and<br>for use in the manufacture of hybrid motor vehicles",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "104633",
+    "code": "8537109157",
+    "description": "Programmable memory control board with:<br>-4\u00a0or more stepper motor drivers,<br>-4\u00a0or more outputs with MOSFET transistors,<br>-a main processor,<br>-3\u00a0or more inputs for temperature sensors,<br>-for a voltage of 10\u00a0V or more but not more than 30\u00a0V<br>for use in the manufacture of 3D printers",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "99997",
+    "code": "8537109160",
+    "description": "Electronic control units, manufactured according to class 2\u00a0of IPC-A-610E standard, with at least:<br>-\u00a0an AC power input of 208\u00a0V or more but not more than\u00a0 400\u00a0V,<br>-\u00a0a logic power input of 24\u00a0V DC,<br>-\u00a0an automatic circuit breaker,<br>-\u00a0a main power switch,<br>-\u00a0internal or external electrical connectors and cables,<br>-\u00a0in a housing with dimension of 281\u00a0mm x 180\u00a0mm x 75\u00a0mm or more, but not more than 630\u00a0mm x 420\u00a0mm x 230\u00a0mm,<br>of a kind used for manufacturing recycling or sorting machines",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "103625",
+    "code": "8537109170",
+    "description": "Programmable motor memory controller for a voltage not exceeding 1000\u00a0V comprising at least<br>-\u00a0a printed circuit with active and passive components,<br>-\u00a0an aluminium housing, and<br>-\u00a0multiple connectors<br>",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "105754",
+    "code": "8537109173",
+    "description": "Multifunctional device (so-called \u201ccombine instrument\u201d) with:<br>- curved TFT-LCD display (radius 750 mm) with contact-sensitive surfaces,<br>- microprocessors and memory chips,<br>- acoustic module and loudspeaker,<br>- connections for CAN, 3 x LIN bus, LVDS and Ethernet,<br>- for operating various functions (e.g. chassis, lighting) and<br>- for situation-related display of vehicle and navigation data (e.g. speed, odometer, charge level of the drive battery), <br>for use in the manufacture of passenger cars powered solely by an electric motor covered by HS subheading 8703 80<br>",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "109914",
+    "code": "8537109175",
+    "description": "Printed circuit board equipped with a microcontroller for operating and/or control purposes<br>-with or without operating components, signal components and display,<br>-for operating voltages of 5V DC or more but not more than 12V DC or 220V AC or more but not more than 400V AC,<br>for use in the manufacture of household appliances of subheadings 7321\u00a011, 8414\u00a060, 8418\u00a010, 8418\u00a021, 8418\u00a029, 8418\u00a040, 8422\u00a011, 8450\u00a011, 8450\u00a012, 8450\u00a019, 8450\u00a020, 8451\u00a021, 8451\u00a029, 8516\u00a060",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "96972",
+    "code": "8537109199",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "102563",
+    "code": "8537109500",
+    "description": "Touch-Sensitive Data Input Devices (so-called touch screens) without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "102564",
+    "code": "8537109800",
+    "description": "Other",
+    "leaf": false,
+    "indent": 3
+  },
+  {
+    "id": "102565",
+    "code": "8537109810",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 4
+  },
+  {
+    "id": "102566",
+    "code": "8537109830",
+    "description": "Other",
+    "leaf": false,
+    "indent": 4
+  },
+  {
+    "id": "102579",
+    "code": "8537109830",
+    "description": "Motor bridge ICs without programmable memory consisting of:<br>-\u00a0one or more integrated circuits, not interconnected, on separate lead frames,<br>-\u00a0also with discrete Metal Oxide Field Effect Transistors (MOSFET) for controlling DC motors in cars<br>-\u00a0mounted in a plastic housing<br>",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "106421",
+    "code": "8537109833",
+    "description": "Lever for control module under the steering wheel:<br>-with several single or multi-positional electrical switches (push-button, rotary or other),<br>-equipped with printed circuit boards and/or electrical cables,<br>-for a voltage of 9\u00a0V or more but not more than 16\u00a0V,<br>of a kind used in the manufacture of motor vehicles of Chapter 87",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108424",
+    "code": "8537109838",
+    "description": "Control panel with switches for mirror, windows and other functions in vehicles, with:<br>-a total length of 144\u00a0mm or more but not more than 150\u00a0mm,<br>-a distance between intended screwing interface center points of 31\u00a0mm or more\u00a0but not more than 31,50\u00a0mm, and<br>-electric components inside the panel with integrated LEDs,<br>for use in the manufacture of automotive components",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108425",
+    "code": "8537109843",
+    "description": "Switch for motor vehicle seat regulation with a memory function, with:<br>-three single switches,<br>-a five-pin connector,<br>-for a voltage of 9\u00a0VDC or more but not more than 16\u00a0VDC, and<br>-electric components inside the panel with integrated LED,<br>for use in the manufacture of automotive components",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "102576",
+    "code": "8537109845",
+    "description": "Electronic control units, manufactured according to class 2\u00a0of IPC-A-610E standard, with at least:<br>-\u00a0an AC power input of 208\u00a0V or more but not more than\u00a0 400\u00a0V,<br>-\u00a0a logic power input of 24\u00a0V DC,<br>-\u00a0an automatic circuit breaker,<br>-\u00a0a main power switch,<br>-\u00a0internal or external electrical connectors and cables,<br>-\u00a0in a housing with dimension of 281\u00a0mm x 180\u00a0mm x 75\u00a0mm or more, but not more than 630\u00a0mm x 420\u00a0mm x 230\u00a0mm,<br>of a kind used for manufacturing recycling or sorting machines",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108426",
+    "code": "8537109848",
+    "description": "Memory switch control panel for seat and lock switch for vehicles with:<br>-a width of 70,2\u00a0mm or more but not more than 70,5\u00a0mm,\u00a0<br>-parallel ribs with a distance between them of 2,6\u00a0mm or more but not more than 2,8\u00a0mm on the rear side,<br>-a 5\u00a0pines connector, and<br>-electric components inside the panel with integrated LED,<br>for use in the manufacture of automotive components",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "102575",
+    "code": "8537109850",
+    "description": "Electronic control unit BCM (Body Control Module) or IBM (Integrated Body Control Module) or similar:<br>-\tcomprising at least a plastic box with printed circuit board, with operating direct voltage of 9 V or more, but not more than 16 V,<br>-\twhether or not with metal holder, <br>-\table to control, evaluate and manage functions of assisting services in an automobile, at least wiper timing, window heating, interior lighting, seat belt reminder,<br>of a kind used in the manufacture of goods of Chapter 87",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108455",
+    "code": "8537109853",
+    "description": "A control unit being a printed circuit board with at least:<br>-a microprocessor,<br>-two or more connectors\u00a0but not more than four,<br>-modified resins,<br>-a length of 180\u00a0mm or more but not more than 250\u00a0mm,<br>-a width of 130\u00a0mm or more but not more than 200\u00a0mm, and<br>-a height of 40\u00a0mm or more but not more than 60\u00a0mm,<br>for use in the manufacture of washing machines",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "105362",
+    "code": "8537109855",
+    "description": "Silicone or plastic keyboards, comprising:<br>-parts of common metal, and<br>-whether or not comprising parts of plastic,<br>-epoxy resin reinforced with fiberglass or wood,<br>-whether or not printed or surface-treated,<br>-with or without electrical conductors<br>-with or without a membrane bonded to the keyboard,<br>-with or without mono or multilayer protective film<br>",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108457",
+    "code": "8537109857",
+    "description": "A control unit being a printed circuit board with at least:\u00a0<br>-a microprocessor,\u00a0<br>-eight\u00a0connectors or more\u00a0but not more than eleven,\u00a0<br>-a supply voltage of 215\u00a0V or more but not more than 245\u00a0V,\u00a0<br>-a housing of PA6-MR30,\u00a0<br>-with or without a transformer,<br>-with or without a high power relay,<br>-with or without insulated-gate bipolar transistor,<br>-a length of 280\u00a0mm or more but not more than 345\u00a0mm,\u00a0<br>-a width of 400\u00a0mm or more but not more than 470\u00a0mm,\u00a0<br>-a height of 28\u00a0mm or more but not more than 45\u00a0mm,\u00a0<br>for use in the manufacture of induction stoves",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "108456",
+    "code": "8537109863",
+    "description": "A control unit being a printed circuit board with at least:<br>-a microprocessor,<br>-two connectors,<br>-a supply voltage of\u00a0215\u00a0V or more\u00a0but not more than 245\u00a0V,<br>-no housing,<br>-a length of 100\u00a0mm or more but not more than 120\u00a0mm,<br>-a width of 40\u00a0mm or more but not more than 50\u00a0mm, and<br>-a height of 20\u00a0mm or more but not more than 30\u00a0mm,<br>for use in the manufacture of refrigerators",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "102571",
+    "code": "8537109893",
+    "description": "Electronic control units for a voltage of 12\u00a0V, for use in the manufacture of vehicle mounted temperature control systems",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "102567",
+    "code": "8537109899",
+    "description": "Other",
+    "leaf": true,
+    "indent": 5
+  },
+  {
+    "id": "50842",
+    "code": "8537200000",
+    "description": "For a voltage exceeding 1\u00a0000\u00a0V",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "50847",
+    "code": "8537209100",
+    "description": "For a voltage exceeding 1\u00a0000\u00a0V but not exceeding 72,5\u00a0kV",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "50848",
+    "code": "8537209110",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "50849",
+    "code": "8537209190",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "50850",
+    "code": "8537209900",
+    "description": "For a voltage exceeding 72,5\u00a0kV",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "50851",
+    "code": "8537209910",
+    "description": "For use in certain types of aircraft",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "50852",
+    "code": "8537209990",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  }
+]

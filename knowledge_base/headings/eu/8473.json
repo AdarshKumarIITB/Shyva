@@ -1,0 +1,114 @@
+[
+  {
+    "id": "49077",
+    "code": "8473210000",
+    "description": "Parts and accessories of the machines of heading\u00a08470",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "49078",
+    "code": "8473210000",
+    "description": "Of the electronic calculating machines of subheading\u00a08470\u00a010, 8470\u00a021\u00a0or 8470\u00a029",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "49079",
+    "code": "8473211000",
+    "description": "Electronic assemblies",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "49080",
+    "code": "8473219000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "49081",
+    "code": "8473290000",
+    "description": "Other",
+    "leaf": false,
+    "indent": 2
+  },
+  {
+    "id": "49082",
+    "code": "8473291000",
+    "description": "Electronic assemblies",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "49083",
+    "code": "8473299000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 3
+  },
+  {
+    "id": "49084",
+    "code": "8473300000",
+    "description": "Parts and accessories of the machines of heading\u00a08471",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "85588",
+    "code": "8473302000",
+    "description": "Electronic assemblies",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "85587",
+    "code": "8473308000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "49132",
+    "code": "8473400000",
+    "description": "Parts and accessories of the machines of heading\u00a08472",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "102103",
+    "code": "8473401000",
+    "description": "Electronic assemblies",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "85576",
+    "code": "8473408000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "60397",
+    "code": "8473500000",
+    "description": "Parts and accessories equally suitable for use with machines of two or more of the headings\u00a08470\u00a0to 8472",
+    "leaf": false,
+    "indent": 1
+  },
+  {
+    "id": "85551",
+    "code": "8473502000",
+    "description": "Electronic assemblies",
+    "leaf": true,
+    "indent": 2
+  },
+  {
+    "id": "85550",
+    "code": "8473508000",
+    "description": "Other",
+    "leaf": true,
+    "indent": 2
+  }
+]

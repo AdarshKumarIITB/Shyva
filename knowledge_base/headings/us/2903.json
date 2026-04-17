@@ -1,0 +1,1906 @@
+[
+  {
+    "htsno": "2903",
+    "indent": "0",
+    "description": "Halogenated derivatives of hydrocarbons:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.11.00",
+    "indent": "2",
+    "description": "Chloromethane (Methyl chloride) and chloroethane (Ethyl chloride)",
+    "superior": null,
+    "units": [],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "125%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.11.00.10",
+    "indent": "3",
+    "description": "Chloromethane (Methyl chloride)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.11.00.20",
+    "indent": "3",
+    "description": "Chloroethane (Ethyl chloride)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.12.00.00",
+    "indent": "2",
+    "description": "Dichloromethane (Methylene chloride)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.13.00.00",
+    "indent": "2",
+    "description": "Chloroform (Trichloromethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "32%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.14.00.00",
+    "indent": "2",
+    "description": "Carbon tetrachloride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.3%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "8.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.15.00.00",
+    "indent": "2",
+    "description": "Ethylene dichloride (ISO) (1,2-dichloroethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "88%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.05.00",
+    "indent": "3",
+    "description": "1,2-Dichloropropane (Propylene dichloride) and dichlorobutanes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.1%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "33.3%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.10.00",
+    "indent": "3",
+    "description": "Hexachloroethane and tetrachloroethane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.30.00",
+    "indent": "3",
+    "description": "sec-Butyl chloride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,L,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.60.10",
+    "indent": "4",
+    "description": "Methylchloroform (1,1,1-Trichloroethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.19.60.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.21.00.00",
+    "indent": "2",
+    "description": "Vinyl chloride (Chloroethylene)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "76%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.22.00.00",
+    "indent": "2",
+    "description": "Trichloroethylene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.23.00.00",
+    "indent": "2",
+    "description": "Tetrachloroethylene (Perchloroethylene)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.29.00.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.41.10.00",
+    "indent": "2",
+    "description": "Trifluoromethane (HFC-23)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free  (A, AU, BH,CL, CO, D, E, IL, JO, K,KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.42.10.00",
+    "indent": "2",
+    "description": "Difluoromethane (HFC-32)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.43.10.00",
+    "indent": "2",
+    "description": "Fluoromethane (HFC-41), 1,2-difluoroethane (HFC-152) and 1,1-difluoroethane (HFC-152a)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.44.10",
+    "indent": "2",
+    "description": "Pentafluoroethane (HFC-125), 1,1,1-trifluoroethane (HFC-143a) and 1,1,2-trifluoroethane (HFC-143)",
+    "superior": null,
+    "units": [],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.44.10.10",
+    "indent": "3",
+    "description": "1,1,1,2,2-Pentafluoroethane (HFC-125)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.44.10.20",
+    "indent": "3",
+    "description": "1,1,1-Trifluoroethane (HFC-143a)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.44.10.30",
+    "indent": "3",
+    "description": "1,1,2-trifluoroethane (HFC-143)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.45.10.00",
+    "indent": "2",
+    "description": "1,1,1,2-Tetrafluoroethane (HFC-134a) and 1,1,2,2-tetrafluoroethane (HFC-134)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.46.10.00",
+    "indent": "2",
+    "description": "1,1,1,2,3,3,3-Heptafluoropropane (HFC-227ea),1,1,1,2,2,3-hexafluoropropane (HFC-236cb),1,1,1,2,3,3-hexafluoropropane (HFC-236ea) and 1,1,1,3,3,3-hexafluoropropane (HFC-236fa)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free  (A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.47.10.00",
+    "indent": "2",
+    "description": "1,1,1,3,3-Pentafluoropropane (HFC-245fa) and 1,1,2,2,3-pentafluoropropane (HFC-245ca)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.48.00.00",
+    "indent": "2",
+    "description": "1,1,1,3,3-Pentafluorobutane (HFC-365mfc) and 1,1,1,2,2,3,4,5,5,5-decafluoropentane (HFC-4310mee)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.49.00.00",
+    "indent": "2",
+    "description": "Other ",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.51.10.00",
+    "indent": "2",
+    "description": "2,3,3,3-Tetrafluoropropene (HFO-1234yf),1,3,3,3-tetrafluoropropene (HFO-1234ze) and (Z)-1,1,1,4,4,4-hexafluoro-2-butene (HFO-1336mzz)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.59",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "\n",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.59.10.10",
+    "indent": "3",
+    "description": "1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-prop-1-ene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.59.90.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH,CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.61.00.00",
+    "indent": "2",
+    "description": "Methyl bromide (bromomethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": " ",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.62.10.00",
+    "indent": "2",
+    "description": "Ethylene dibromide (ISO) (1,2-dibromoethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.4%",
+    "special": "Free \n(A+, AU, BH,CL, CO, D, E, IL,JO, KR, MA, OM,P, PA, PE, S, SG)",
+    "other": "46.3%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.69",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "\n",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.69.10.00",
+    "indent": "3",
+    "description": "Acetylene tetrabromide; alkyl bromides, other than methyl bromide (bromomethane); methylene dibromide; and vinyl bromide",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": " ",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.69.90.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, K, KR, MA, OM, P, PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.71.01.00",
+    "indent": "2",
+    "description": "Chlorodifluoromethane (HCFC-22)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free \n(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.\u00a0 ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.72.01.00",
+    "indent": "2",
+    "description": "Dichlorotrifluoroethanes (HCFC-123)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.\u00a0 ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.73.01.00",
+    "indent": "2",
+    "description": "Dichlorofluoroethanes (HCFC-141, 141b)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.74.01.00",
+    "indent": "2",
+    "description": "Chlorodifluoroethanes (HCFC-142, 142b)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.     ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.75.01.00",
+    "indent": "2",
+    "description": "Dichloropentafluoropropanes (HCFC-225, 225ca, 225cb)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.76.01.00",
+    "indent": "2",
+    "description": "Bromochlorodifluoromethane (Halon-1211), bromotrifluoromethane (Halon-1301) and dibromotetrafluoroethanes (Halon-2402)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free(A, AU, BH, CL, CO, D, E, IL, JO, KR, MA, OM, P,PA, PE, S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00",
+    "indent": "2",
+    "description": "Other, perhalogenated only with fluorine and chlorine",
+    "superior": null,
+    "units": [],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.10",
+    "indent": "3",
+    "description": "Trichlorofluoromethane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.20",
+    "indent": "3",
+    "description": "Trichlorotrifluoroethanes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.30",
+    "indent": "3",
+    "description": "Dichlorotetrafluoroethane (CFC-114)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.40",
+    "indent": "3",
+    "description": "Monochloropentafluoroethane (CFC-115)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.50",
+    "indent": "3",
+    "description": "Dichlorodifluoromethane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.77.00.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.78.00.00",
+    "indent": "2",
+    "description": "Other perhalogenated derivatives",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.79",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.79.10.00",
+    "indent": "3",
+    "description": "Bromochloromethane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15.  ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.79.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.79.90.30",
+    "indent": "4",
+    "description": "Monochlorotetrafluoroethane (HCFC-124)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.79.90.70",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.81.00.00",
+    "indent": "2",
+    "description": "1,2,3,4,5,6-Hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 64.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.82.00.00",
+    "indent": "2",
+    "description": "Aldrin (ISO), chlordane (ISO) and heptachlor (ISO)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 64.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.83.00.00",
+    "indent": "2",
+    "description": "Mirex (ISO)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.05.00",
+    "indent": "4",
+    "description": "Dibromoethyldibromocyclohexane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "15.4\u00a2/kg + 64.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.11.00",
+    "indent": "5",
+    "description": "Pesticides",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 64.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.15.00",
+    "indent": "6",
+    "description": "Products described in additional U.S. note 3 to section VI",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 53.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.20.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 53.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.31.00",
+    "indent": "4",
+    "description": "Chlorinated, but not otherwise halogenated",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "114.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.40.00",
+    "indent": "5",
+    "description": "1,3,5,7,9,11-Hexabromocyclododecane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.60.00",
+    "indent": "5",
+    "description": "Tetrabromocyclooctane",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.70",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,K,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.70.10",
+    "indent": "6",
+    "description": "Other hexabromocyclododecanes (HBCDs)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.89.70.90",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.91",
+    "indent": "2",
+    "description": "Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.91.10.00",
+    "indent": "3",
+    "description": "Chlorobenzene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 91.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.91.20.00",
+    "indent": "3",
+    "description": "o-Dichlorobenzene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 84%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.91.30.00",
+    "indent": "3",
+    "description": "p-Dichlorobenzene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 40.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.92.00.00",
+    "indent": "2",
+    "description": "Hexachlorobenzene (ISO) and DDT (ISO) (clofenotane (INN)), (1,1,1-trichloro-2,2- bis(p-chlorophenyl)ethane)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.93.00.00",
+    "indent": "2",
+    "description": "Pentachlorobenzene (ISO)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.94.00.00",
+    "indent": "2",
+    "description": "Hexabromobiphenyls",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.05.00",
+    "indent": "3",
+    "description": "3-Bromo-\u03b1,\u03b1,\u03b1-trifluorotoluene; 2-Chloro-5-bromo-\u03b1,\u03b1,\u03b1-trifluorotoluene; and\u03b1-Chloro-3-methyltoluene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.08.00",
+    "indent": "3",
+    "description": "p-Chlorobenzotrifluoride; and 3,4-Dichlorobenzotrifluoride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D, E,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.10.00",
+    "indent": "3",
+    "description": "m-Dichlorobenzene; 1,1-Dichloro-2,2-bis(p-ethylphenyl)ethane; and Trichlorobenzenes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 40.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.15.00",
+    "indent": "3",
+    "description": "Triphenylmethyl chloride",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.20.00",
+    "indent": "3",
+    "description": "Benzyl chloride (\u03b1-Chlorotoluene); and Benzotrichloride (\u03b1,\u03b1,\u03b1-Trichlorotoluene)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 48%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.23.00",
+    "indent": "3",
+    "description": "Pentabromoethylbenzene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.27.00",
+    "indent": "3",
+    "description": "Tribromocumene",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.30.00",
+    "indent": "4",
+    "description": "Pesticides",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 64.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2903.99.80.01",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D, E,IL,JO, K,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "15.4\u00a2/kg + 71%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]
